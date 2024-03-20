@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+        <title>{% block title %}{% endblock %}</title>
+    </head>
+    <body>
+        <div id="centered-div" class="centered">
+            <nav class="menu-bar">
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/blog">Blog</a></li>
+                    <li><a href="/auth/register">Register</a></li>
+                    <li><a href="/auth/login">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        {% block content %}{% endblock %}
+
+    </body>
+</html>

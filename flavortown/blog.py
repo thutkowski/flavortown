@@ -3,12 +3,12 @@ from flask import (
 )
 from werkzeug.exceptions import abort
 
-from flaskr.auth import login_required
-from flaskr.db import get_db
+from flavortown.auth import login_required
+from flavortown.db import get_db
 
-bp = Blueprint('blog', __name__)
+bp = Blueprint('blog', __name__,url_prefix='/blog')
 
-@bp.route('/')
+@bp.route('/index')
 def index():
     db = get_db()
     posts = db.execute(
@@ -39,7 +39,7 @@ def create():
                 (title, body, g.user['id'])
             )
             db.commit()
-            return redirect(url_for('blog.index'))
+            return redirect(url_for('home.index'))
 
     return render_template('blog/create.html')
 

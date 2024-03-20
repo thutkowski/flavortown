@@ -1,0 +1,89 @@
+/* General styles */
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+/* Links */
+a {
+    color: #4e9eff; /* Light blue */
+}
+
+a:hover {
+    color: #2a5cff; /* Darker blue */
+}
+
+/* Buttons */
+button {
+    background-color: #444;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+/* Input fields */
+input[type="text"],
+input[type="email"],
+textarea {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #555;
+    padding: 5px;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    border-color: #4e9eff; /* Light blue */
+    outline: none;
+}
+
+/* Example dark mode toggle */
+.dark-mode-toggle {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+    background-color: #444;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* Menu bar styles */
+.menu-bar {
+    background-color: #333;
+    text-align: center; /* Align menu items to the center */
+}
+
+.menu-bar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Use flexbox for horizontal layout */
+}
+
+.menu-bar ul li {
+    display: inline-block; /* Display menu items horizontally */
+}
+
+.menu-bar ul li:not(:last-child) {
+    border-right: 1px solid #555; /* Add borders between menu items */
+}
+
+.menu-bar ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-bar ul li a:hover {
+    background-color: #555;
+}
