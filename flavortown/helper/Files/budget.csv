@@ -1,0 +1,22 @@
+﻿Expenses,Amt,TransactionType,IsSavings,IsVariable,IsFixed
+Rent,845,Debit,0,0,1
+Renters insurance,20,Debit,0,0,1
+Trash,60,Credit,0,0,1
+Electric,100,Credit,0,0,1
+Water,55,Credit,0,0,1
+Internet,105,Credit,0,0,1
+School Loans,150,Debit,0,0,1
+Roth IRA,400,Debit,1,0,0
+Vacation Fund,400,Debit,1,0,0
+Emergency Fund,400,Debit,1,0,0
+Christmas Fund,100,Debit,1,0,0
+Car Savings,400,Debit,1,0,0
+Food,500,Credit,0,1,0
+Alcohol,100,Credit,0,1,0
+Misc,200,Credit,0,1,0
+Dining Out,100,Credit,0,1,0
+Clothing,50,Credit,1,0,0
+Charity,50,Debit,0,1,0
+Netflix/Hulu/etc,35,Credit,0,1,0
+Car/Service,0,Credit,0,1,0
+Car insurance,0,Credit,0,0,1

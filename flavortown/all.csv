@@ -1,0 +1,867 @@
+,Date,Desc,Amount,TransactionType,Category,Source,CategoryStatus,Week,Year
+0,2024-01-02 00:00:00,PUGET SOUND ENERGY,-182.51,Credit,Electric,Discover,Unknown,1,2024
+1,2024-01-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,1,2024
+2,2024-01-05 00:00:00,Discover points payment,5.74,Debit,Awards and Rebate Credits,Discover,Variable,1,2024
+3,2024-01-11 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,2,2024
+4,2024-01-19 00:00:00,Shell,-50.45,Credit,Gasoline,Discover,Variable,3,2024
+5,2024-01-25 00:00:00,UWAJIMAYA SEATTLE SEATTLE WA,-21.17,Credit,Supermarkets,Discover,Variable,4,2024
+6,2024-01-27 00:00:00,ALASKA AIRLINES 2064333200 WA,-415.6,Credit,Travel/ Entertainment,Discover,Variable,4,2024
+7,2024-01-31 00:00:00,PUGET SOUND ENERGY,-75.55,Credit,Electric,Discover,Unknown,5,2024
+8,2024-02-01 00:00:00,FIRST LATE PAYMENT - NO FEE,0.0,Debit,Fees,Discover,Variable,5,2024
+9,2024-02-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,5,2024
+10,2024-02-04 00:00:00,Discover payment,1076.92,Debit,Finacial,Discover,?,5,2024
+11,2024-02-05 00:00:00,Discover points payment,6.22,Debit,Awards and Rebate Credits,Discover,Variable,6,2024
+12,2024-02-08 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,6,2024
+13,2024-02-27 00:00:00,Discover payment,52.78,Debit,Finacial,Discover,?,9,2024
+14,2024-02-29 00:00:00,PUGET SOUND ENERGY,-204.17,Credit,Electric,Discover,Unknown,9,2024
+15,2024-03-01 00:00:00,Shell,-27.19,Credit,Gasoline,Discover,Variable,9,2024
+16,2024-03-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,9,2024
+17,2024-03-05 00:00:00,Discover points payment,2.9,Debit,Awards and Rebate Credits,Discover,Variable,10,2024
+18,2024-03-06 00:00:00,Shell,-15.2,Credit,Gasoline,Discover,Variable,10,2024
+19,2024-03-07 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,10,2024
+20,2024-03-11 00:00:00,Fred-Meyer,-10.87,Credit,Supermarkets,Discover,Variable,11,2024
+21,2024-03-14 00:00:00,PIKE&PINE ST2275 SEATTLE WA,-5.99,Credit,Supermarkets,Discover,Variable,11,2024
+22,2024-03-17 00:00:00,Fred-Meyer,-16.2,Credit,Supermarkets,Discover,Variable,11,2024
+23,2024-03-19 00:00:00,Shell,-16.84,Credit,Gasoline,Discover,Variable,12,2024
+24,2024-03-20 00:00:00,Pizza Time,-29.25,Credit,Restaurants,Discover,Variable,12,2024
+25,2024-03-21 00:00:00,AL-MADINA GENERAL STORE VANCOUVER CAN21.75 @ 00000000.7368545 CAD,-16.03,Credit,Supermarkets,Discover,Variable,12,2024
+26,2024-03-21 00:00:00,CACTUS CLUB COAL HARBO VANCOUVER CAN48.44 @ 00000000.7368545 CAD,-35.69,Credit,Restaurants,Discover,Variable,12,2024
+27,2024-03-21 00:00:00,Cambie,-9.95,Credit,Restaurants,Discover,Variable,12,2024
+28,2024-03-21 00:00:00,THE PINT PUBLIC HOUSE VANCOUVER CAN15.50 @ 00000000.7368545 CAD,-11.42,Credit,Restaurants,Discover,Variable,12,2024
+29,2024-03-22 00:00:00,Cambie,-10.68,Credit,Restaurants,Discover,Variable,12,2024
+30,2024-03-22 00:00:00,Cambie,-10.68,Credit,Restaurants,Discover,Variable,12,2024
+31,2024-03-22 00:00:00,Cambie,-11.87,Credit,Restaurants,Discover,Variable,12,2024
+32,2024-03-22 00:00:00,Cambie,-12.34,Credit,Restaurants,Discover,Variable,12,2024
+33,2024-03-22 00:00:00,Cambie,-12.5,Credit,Restaurants,Discover,Variable,12,2024
+34,2024-03-22 00:00:00,Cambie,-26.48,Credit,Restaurants,Discover,Variable,12,2024
+35,2024-03-22 00:00:00,Cambie,-48.64,Credit,Restaurants,Discover,Variable,12,2024
+36,2024-03-22 00:00:00,FALSE CREEK FERRIES VANCOUVER CAN8.00 @ 00000000.7368545 CAD,-5.89,Credit,Travel/ Entertainment,Discover,Variable,12,2024
+37,2024-03-22 00:00:00,KIMDOLY BEADS VANCOUVER CAN11.20 @ 00000000.7368545 CAD,-8.25,Credit,Merchandise,Discover,Variable,12,2024
+38,2024-03-23 00:00:00,AMTRAK F&B SPINE PHILADELPHIA PA,-21.5,Credit,Restaurants,Discover,Variable,12,2024
+39,2024-03-23 00:00:00,Cambie,-11.05,Credit,Restaurants,Discover,Variable,12,2024
+40,2024-03-23 00:00:00,Shell,-26.74,Credit,Gasoline,Discover,Variable,12,2024
+41,2024-03-24 00:00:00,Co-Op,-20.42,Credit,Supermarkets,Discover,Variable,12,2024
+42,2024-03-24 00:00:00,Pel'Meni,-20.0,Credit,Restaurants,Discover,Variable,12,2024
+43,2024-03-25 00:00:00,Co-Op,-9.78,Credit,Supermarkets,Discover,Variable,13,2024
+44,2024-03-25 00:00:00,Shell,-11.96,Credit,Gasoline,Discover,Variable,13,2024
+45,2024-03-26 00:00:00,ASIA MARKET BELLINGHAM WA,-10.47,Credit,Supermarkets,Discover,Variable,13,2024
+46,2024-03-26 00:00:00,SUPER MARIO'S BELLINGHAM WA,-24.4,Credit,Restaurants,Discover,Variable,13,2024
+47,2024-03-29 00:00:00,Fred-Meyer,-12.13,Credit,Supermarkets,Discover,Variable,13,2024
+48,2024-03-29 00:00:00,Fred-Meyer,-18.51,Credit,Supermarkets,Discover,Variable,13,2024
+49,2024-03-29 00:00:00,PUGET SOUND ENERGY,-162.57,Credit,Electric,Discover,Unknown,13,2024
+50,2024-03-31 00:00:00,Fred-Meyer,-2.71,Credit,Supermarkets,Discover,Variable,13,2024
+51,2024-03-31 00:00:00,Fred-Meyer,-40.63,Credit,Supermarkets,Discover,Variable,13,2024
+52,2024-04-01 00:00:00,Co-Op,-5.66,Credit,Supermarkets,Discover,Variable,14,2024
+53,2024-04-01 00:00:00,Discover payment,286.36,Debit,Finacial,Discover,?,14,2024
+54,2024-04-01 00:00:00,Shell,-40.61,Credit,Gasoline,Discover,Variable,14,2024
+55,2024-04-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,14,2024
+56,2024-04-04 00:00:00,Shell,-27.19,Credit,Gasoline,Discover,Variable,14,2024
+57,2024-04-04 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,14,2024
+58,2024-04-05 00:00:00,Discover points payment,8.15,Debit,Awards and Rebate Credits,Discover,Variable,14,2024
+59,2024-04-05 00:00:00,Co-Op,-27.55,Credit,Supermarkets,Discover,Variable,14,2024
+60,2024-04-05 00:00:00,WWU ZOES BKSIDE BAGELS BELLINGHAM WA,-8.68,Credit,Restaurants,Discover,Variable,14,2024
+61,2024-04-06 00:00:00,Pel'Meni,-10.0,Credit,Restaurants,Discover,Variable,14,2024
+62,2024-04-09 00:00:00,Shell,-32.39,Credit,Gasoline,Discover,Variable,15,2024
+63,2024-04-11 00:00:00,Pizza Time,-32.24,Credit,Restaurants,Discover,Variable,15,2024
+64,2024-04-12 00:00:00,ASIA MARKET BELLINGHAM WA,-6.98,Credit,Supermarkets,Discover,Variable,15,2024
+65,2024-04-12 00:00:00,ASIA MARKET BELLINGHAM WA,-11.23,Credit,Supermarkets,Discover,Variable,15,2024
+66,2024-04-12 00:00:00,Discover payment,650.0,Debit,Finacial,Discover,?,15,2024
+67,2024-04-12 00:00:00,Shell,-12.51,Credit,Gasoline,Discover,Variable,15,2024
+68,2024-04-13 00:00:00,20TH CENTURY BOWL BELLINGHAM WA,-12.25,Credit,Travel/ Entertainment,Discover,Variable,15,2024
+69,2024-04-13 00:00:00,Uber,-8.41,Credit,Restaurants,Discover,Variable,15,2024
+70,2024-04-13 00:00:00,Uber,-14.85,Credit,Restaurants,Discover,Variable,15,2024
+71,2024-04-14 00:00:00,Exxon,-3.26,Credit,Gasoline,Discover,Variable,15,2024
+72,2024-04-17 00:00:00,Shell,-26.74,Credit,Gasoline,Discover,Variable,16,2024
+73,2024-04-18 00:00:00,Co-Op,-6.98,Credit,Supermarkets,Discover,Variable,16,2024
+74,2024-04-18 00:00:00,Shell,-11.96,Credit,Gasoline,Discover,Variable,16,2024
+75,2024-04-18 00:00:00,TST* K POP BELLINGHAM WA00041857017196541546AA,-18.77,Credit,Restaurants,Discover,Variable,16,2024
+76,2024-04-19 00:00:00,Shell,-30.45,Credit,Gasoline,Discover,Variable,16,2024
+77,2024-04-20 00:00:00,Co-Op,-5.99,Credit,Supermarkets,Discover,Variable,16,2024
+78,2024-04-20 00:00:00,Pel'Meni,-11.0,Credit,Restaurants,Discover,Variable,16,2024
+79,2024-04-21 00:00:00,Grocery Outlet,-44.33,Credit,Supermarkets,Discover,Variable,16,2024
+80,2024-04-23 00:00:00,AMZN MKTP US*R383D1YH1 AMZN.COM/BILLWA7HGHB0EBQIG,-21.39,Credit,Merchandise,Discover,Variable,17,2024
+81,2024-04-23 00:00:00,Shell,-27.07,Credit,Gasoline,Discover,Variable,17,2024
+82,2024-04-30 00:00:00,PUGET SOUND ENERGY,-120.28,Credit,Electric,Discover,Unknown,18,2024
+83,2024-05-01 00:00:00,BEAVER INN BELLINGHAM WA,-18.25,Credit,Restaurants,Discover,Variable,18,2024
+84,2024-05-02 00:00:00,Fred-Meyer,-57.42,Credit,Supermarkets,Discover,Variable,18,2024
+85,2024-05-02 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,18,2024
+86,2024-05-02 00:00:00,Exxon,-14.39,Credit,Gasoline,Discover,Variable,18,2024
+87,2024-05-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,18,2024
+88,2024-05-04 00:00:00,INTEREST CHARGE ON PURCHASES,-7.02,Credit,Interest,Discover,Variable,18,2024
+89,2024-05-04 00:00:00,Otherside,-22.0,Credit,Restaurants,Discover,Variable,18,2024
+90,2024-05-05 00:00:00,Fred-Meyer,-22.06,Credit,Supermarkets,Discover,Variable,18,2024
+91,2024-05-05 00:00:00,Discover payment,200.0,Debit,Finacial,Discover,?,18,2024
+92,2024-05-05 00:00:00,On campus,-3.47,Credit,Gasoline,Discover,Variable,18,2024
+93,2024-05-06 00:00:00,Discover points payment,6.14,Debit,Awards and Rebate Credits,Discover,Variable,19,2024
+94,2024-05-06 00:00:00,Discover payment,500.0,Debit,Finacial,Discover,?,19,2024
+95,2024-05-06 00:00:00,BIRTHDAY - $5 STATEMENT CREDIT,5.0,Debit,Awards and Rebate Credits,Discover,Variable,19,2024
+96,2024-05-07 00:00:00,Grocery Outlet,-43.25,Credit,Supermarkets,Discover,Variable,19,2024
+97,2024-05-08 00:00:00,Grocery Outlet,-17.67,Credit,Supermarkets,Discover,Variable,19,2024
+98,2024-05-08 00:00:00,HORSESHOE CAFE BELLINGHAM WA,-25.2,Credit,Restaurants,Discover,Variable,19,2024
+99,2024-05-08 00:00:00,JJ'S,-21.75,Credit,Supermarkets,Discover,Variable,19,2024
+100,2024-05-10 00:00:00,On campus,-13.22,Credit,Gasoline,Discover,Variable,19,2024
+101,2024-05-11 00:00:00,Co-Op,-2.45,Credit,Supermarkets,Discover,Variable,19,2024
+102,2024-05-11 00:00:00,Pel'Meni,-18.0,Credit,Restaurants,Discover,Variable,19,2024
+103,2024-05-16 00:00:00,Grocery Outlet,-31.05,Credit,Supermarkets,Discover,Variable,20,2024
+104,2024-05-17 00:00:00,MAPLE MARKET BELLINGHAM WA,-50.14,Credit,Supermarkets,Discover,Variable,20,2024
+105,2024-05-18 00:00:00,Grocery Outlet,-25.1,Credit,Supermarkets,Discover,Variable,20,2024
+106,2024-05-18 00:00:00,JJ'S,-12.61,Credit,Supermarkets,Discover,Variable,20,2024
+107,2024-05-19 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-11.75,Credit,Restaurants,Discover,Variable,20,2024
+108,2024-05-19 00:00:00,Rumours,-4.63,Credit,Restaurants,Discover,Variable,20,2024
+109,2024-05-19 00:00:00,Rumours,-5.39,Credit,Restaurants,Discover,Variable,20,2024
+110,2024-05-19 00:00:00,Rumours,-5.39,Credit,Restaurants,Discover,Variable,20,2024
+111,2024-05-19 00:00:00,Rumours,-10.6,Credit,Restaurants,Discover,Variable,20,2024
+112,2024-05-20 00:00:00,Grocery Outlet,-30.76,Credit,Supermarkets,Discover,Variable,21,2024
+113,2024-05-23 00:00:00,LINKEDIN PRE*P31558026 LNKD.IN/BILL CAP31558026,-43.19,Credit,Merchandise,Discover,Variable,21,2024
+114,2024-05-23 00:00:00,MALLARD ICE CREAM BELLINGHAM WA,-14.0,Credit,Restaurants,Discover,Variable,21,2024
+115,2024-05-23 00:00:00,MAPLE MARKET BELLINGHAM WA,-14.02,Credit,Supermarkets,Discover,Variable,21,2024
+116,2024-05-24 00:00:00,CHEFSTORE 7552 BELLINGHAM WA,-13.86,Credit,Supermarkets,Discover,Variable,21,2024
+117,2024-05-24 00:00:00,JJ'S,-21.75,Credit,Supermarkets,Discover,Variable,21,2024
+118,2024-05-24 00:00:00,Coffee,-14.35,Credit,Restaurants,Discover,Variable,21,2024
+119,2024-05-24 00:00:00,TRADER JOE S #151 BELLINGHAM WA,-11.62,Credit,Supermarkets,Discover,Variable,21,2024
+120,2024-05-25 00:00:00,Co-Op,-10.53,Credit,Supermarkets,Discover,Variable,21,2024
+121,2024-05-25 00:00:00,SQ *RALF'S BAVARIAN BA BELLINGHAM WA0001152921514123919135,-4.0,Credit,Merchandise,Discover,Variable,21,2024
+122,2024-05-25 00:00:00,SQ *WRIGHT BROTHERS FA BELLINGHAM WA0001152921514123833330,-3.99,Credit,Supermarkets,Discover,Variable,21,2024
+123,2024-05-25 00:00:00,TADEOS MEXICAN RESTAURAN BELLINGHAM WA,-22.02,Credit,Restaurants,Discover,Variable,21,2024
+124,2024-05-26 00:00:00,Fred-Meyer,-26.9,Credit,Supermarkets,Discover,Variable,21,2024
+125,2024-05-26 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-6.98,Credit,Supermarkets,Discover,Variable,21,2024
+126,2024-05-26 00:00:00,Otherside,-17.5,Credit,Restaurants,Discover,Variable,21,2024
+127,2024-05-27 00:00:00,Grocery Outlet,-19.84,Credit,Supermarkets,Discover,Variable,22,2024
+128,2024-05-27 00:00:00,Fred-Meyer,-38.06,Credit,Supermarkets,Discover,Variable,22,2024
+129,2024-05-27 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-5.75,Credit,Supermarkets,Discover,Variable,22,2024
+130,2024-05-28 00:00:00,MAPLE MARKET BELLINGHAM WA,-31.03,Credit,Supermarkets,Discover,Variable,22,2024
+131,2024-05-28 00:00:00,On campus,-3.48,Credit,Gasoline,Discover,Variable,22,2024
+132,2024-05-29 00:00:00,QQ LI'S,-21.0,Credit,Restaurants,Discover,Variable,22,2024
+133,2024-05-30 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,22,2024
+134,2024-05-31 00:00:00,PUGET SOUND ENERGY,-86.57,Credit,Electric,Discover,Unknown,22,2024
+135,2024-06-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,23,2024
+136,2024-06-03 00:00:00,Discover payment,775.05,Debit,Finacial,Discover,?,23,2024
+137,2024-06-04 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-15.63,Credit,Supermarkets,Discover,Variable,23,2024
+138,2024-06-04 00:00:00,JJ'S,-13.04,Credit,Supermarkets,Discover,Variable,23,2024
+139,2024-06-04 00:00:00,Subway,-14.6,Credit,Restaurants,Discover,Variable,23,2024
+140,2024-06-05 00:00:00,Discover points payment,9.36,Debit,Awards and Rebate Credits,Discover,Variable,23,2024
+141,2024-06-05 00:00:00,SALLY BEAUTY COMPANY 218 BELLINGHAM WA,-25.24,Credit,Merchandise,Discover,Variable,23,2024
+142,2024-06-05 00:00:00,Value Village,-16.32,Credit,Merchandise,Discover,Variable,23,2024
+143,2024-06-07 00:00:00,Fred-Meyer,-22.84,Credit,Supermarkets,Discover,Variable,23,2024
+144,2024-06-13 00:00:00,MAPLE MARKET BELLINGHAM WA,-19.26,Credit,Supermarkets,Discover,Variable,24,2024
+145,2024-06-14 00:00:00,LOCUS BELLINGHAM WA,-23.73,Credit,Restaurants,Discover,Variable,24,2024
+146,2024-06-14 00:00:00,Elcapitans,-8.0,Credit,Supermarkets,Discover,Variable,24,2024
+147,2024-06-14 00:00:00,Elcapitans,-8.76,Credit,Supermarkets,Discover,Variable,24,2024
+148,2024-06-15 00:00:00,MAPLE MARKET BELLINGHAM WA,-48.77,Credit,Supermarkets,Discover,Variable,24,2024
+149,2024-06-15 00:00:00,Shell,-8.48,Credit,Gasoline,Discover,Variable,24,2024
+150,2024-06-16 00:00:00,Haggen,-61.07,Credit,Supermarkets,Discover,Variable,24,2024
+151,2024-06-16 00:00:00,JJ'S,-21.42,Credit,Supermarkets,Discover,Variable,24,2024
+152,2024-06-17 00:00:00,WWU AS BOOKSTORE BELLINGHAM WA,-11.94,Credit,Education,Discover,?,25,2024
+153,2024-06-19 00:00:00,Co-Op,-27.14,Credit,Supermarkets,Discover,Variable,25,2024
+154,2024-06-20 00:00:00,Fred-Meyer,-47.0,Credit,Supermarkets,Discover,Variable,25,2024
+155,2024-06-20 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-11.53,Credit,Supermarkets,Discover,Variable,25,2024
+156,2024-06-20 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-27.15,Credit,Supermarkets,Discover,Variable,25,2024
+157,2024-06-20 00:00:00,Pizza Time,-32.74,Credit,Restaurants,Discover,Variable,25,2024
+158,2024-06-21 00:00:00,CHEFSTORE 7552 BELLINGHAM WA,-37.29,Credit,Supermarkets,Discover,Variable,25,2024
+159,2024-06-21 00:00:00,Haggen,-19.81,Credit,Supermarkets,Discover,Variable,25,2024
+160,2024-06-21 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-3.38,Credit,Supermarkets,Discover,Variable,25,2024
+161,2024-06-21 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-9.93,Credit,Supermarkets,Discover,Variable,25,2024
+162,2024-06-21 00:00:00,Xbox,-65.39,Credit,Random,Discover,Variable,25,2024
+163,2024-06-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,25,2024
+164,2024-06-22 00:00:00,MAPLE MARKET BELLINGHAM WA,-24.64,Credit,Supermarkets,Discover,Variable,25,2024
+165,2024-06-23 00:00:00,Grocery Outlet,-32.45,Credit,Supermarkets,Discover,Variable,25,2024
+166,2024-06-24 00:00:00,JJ'S,-9.78,Credit,Supermarkets,Discover,Variable,26,2024
+167,2024-06-27 00:00:00,MAPLE MARKET BELLINGHAM WA,-27.24,Credit,Supermarkets,Discover,Variable,26,2024
+168,2024-06-27 00:00:00,TWPSUB64477436 202-334-6000 DC,-4.0,Credit,Merchandise,Discover,Variable,26,2024
+169,2024-06-28 00:00:00,Exxon,-8.58,Credit,Gasoline,Discover,Variable,26,2024
+170,2024-06-28 00:00:00,Fred-Meyer,-45.16,Credit,Supermarkets,Discover,Variable,26,2024
+171,2024-06-30 00:00:00,NELSON'S MARKET BELLINGHAM WA,-27.27,Credit,Restaurants,Discover,Variable,26,2024
+172,2024-06-30 00:00:00,Value Village,-10.88,Credit,Merchandise,Discover,Variable,26,2024
+173,2024-07-01 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-29.96,Credit,Supermarkets,Discover,Variable,27,2024
+174,2024-07-01 00:00:00,LATE FEE,-30.0,Credit,Fees,Discover,Variable,27,2024
+175,2024-07-01 00:00:00,SQ *NEIGHBORHOOD MARKE BELLINGHAM WA0001152921514265155714,-18.46,Credit,Supermarkets,Discover,Variable,27,2024
+176,2024-07-02 00:00:00,PUGET SOUND ENERGY,-61.04,Credit,Electric,Discover,Unknown,27,2024
+177,2024-07-03 00:00:00,Comcast,-55.0,Credit,Internet,Discover,Unknown,27,2024
+178,2024-07-04 00:00:00,Discover payment,1119.09,Debit,Finacial,Discover,?,27,2024
+179,2024-07-04 00:00:00,HORSESHOE CAFE BELLINGHAM WA,-19.2,Credit,Restaurants,Discover,Variable,27,2024
+180,2024-07-04 00:00:00,MAPLE MARKET BELLINGHAM WA,-25.36,Credit,Supermarkets,Discover,Variable,27,2024
+181,2024-07-05 00:00:00,Discover points payment,11.52,Debit,Awards and Rebate Credits,Discover,Variable,27,2024
+182,2024-07-05 00:00:00,AVENUE BREAD AND DELI RA BELLINGHAM WA,-8.72,Credit,Restaurants,Discover,Variable,27,2024
+183,2024-07-05 00:00:00,Co-Op,-4.99,Credit,Supermarkets,Discover,Variable,27,2024
+184,2024-07-05 00:00:00,Co-Op,-5.29,Credit,Supermarkets,Discover,Variable,27,2024
+185,2024-07-05 00:00:00,JJ'S,-37.15,Credit,Supermarkets,Discover,Variable,27,2024
+186,2024-07-05 00:00:00,MALLARD ICE CREAM BELLINGHAM WA,-19.51,Credit,Restaurants,Discover,Variable,27,2024
+187,2024-07-07 00:00:00,OLIVE GARDEN ZK 0021487 BELLINGHAM WA,-54.62,Credit,Restaurants,Discover,Variable,27,2024
+188,2024-07-10 00:00:00,Co-Op,-3.98,Credit,Supermarkets,Discover,Variable,28,2024
+189,2024-07-12 00:00:00,MAPLE MARKET BELLINGHAM WA,-21.53,Credit,Supermarkets,Discover,Variable,28,2024
+190,2024-07-13 00:00:00,Fred-Meyer,-140.07,Credit,Supermarkets,Discover,Variable,28,2024
+191,2024-07-14 00:00:00,Chevron,-30.51,Credit,Gasoline,Discover,Variable,28,2024
+192,2024-07-14 00:00:00,Haggen,-13.31,Credit,Supermarkets,Discover,Variable,28,2024
+193,2024-07-14 00:00:00,Haggen,-18.36,Credit,Supermarkets,Discover,Variable,28,2024
+194,2024-07-16 00:00:00,Gruff,-18.31,Credit,Restaurants,Discover,Variable,29,2024
+195,2024-07-17 00:00:00,Co-Op,-5.22,Credit,Supermarkets,Discover,Variable,29,2024
+196,2024-07-17 00:00:00,Co-Op,-13.11,Credit,Supermarkets,Discover,Variable,29,2024
+197,2024-07-17 00:00:00,Gruff,-18.31,Credit,Restaurants,Discover,Variable,29,2024
+198,2024-07-19 00:00:00,Amazon,-28.98,Credit,Merchandise,Discover,Variable,29,2024
+199,2024-07-19 00:00:00,JJ'S,-30.19,Credit,Supermarkets,Discover,Variable,29,2024
+200,2024-07-19 00:00:00,MAPLE MARKET BELLINGHAM WA,-13.59,Credit,Supermarkets,Discover,Variable,29,2024
+201,2024-07-20 00:00:00,ABELSPEAKS.ORG 4054889071 TX,-400.0,Credit,Charity,Discover,Variable,29,2024
+202,2024-07-20 00:00:00,Discover payment,531.03,Debit,Finacial,Discover,?,29,2024
+203,2024-07-20 00:00:00,Xbox,-21.58,Credit,Random,Discover,Variable,29,2024
+204,2024-07-20 00:00:00,Shell,-16.34,Credit,Gasoline,Discover,Variable,29,2024
+205,2024-07-21 00:00:00,Grocery Outlet,-52.79,Credit,Supermarkets,Discover,Variable,29,2024
+206,2024-07-21 00:00:00,LS BBAY RUNNING 3607386900 WA,-147.15,Credit,Merchandise,Discover,Variable,29,2024
+207,2024-07-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,29,2024
+208,2024-07-22 00:00:00,Exxon,-3.59,Credit,Gasoline,Discover,Variable,30,2024
+209,2024-07-22 00:00:00,Fred-Meyer,-31.14,Credit,Supermarkets,Discover,Variable,30,2024
+210,2024-07-22 00:00:00,Fred-Meyer,-54.85,Credit,Supermarkets,Discover,Variable,30,2024
+211,2024-07-22 00:00:00,SAMISH SUPER V BELLINGHAM WA,-4.5,Credit,Gasoline,Discover,Variable,30,2024
+212,2024-07-23 00:00:00,JJ'S,-27.19,Credit,Supermarkets,Discover,Variable,30,2024
+213,2024-07-23 00:00:00,Shell,-8.88,Credit,Gasoline,Discover,Variable,30,2024
+214,2024-07-23 00:00:00,Shell,-24.5,Credit,Gasoline,Discover,Variable,30,2024
+215,2024-07-24 00:00:00,Co-Op,-14.37,Credit,Supermarkets,Discover,Variable,30,2024
+216,2024-07-24 00:00:00,Elcapitans,-16.1,Credit,Supermarkets,Discover,Variable,30,2024
+217,2024-07-25 00:00:00,TWPSUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,30,2024
+218,2024-07-26 00:00:00,Grocery Outlet,-17.9,Credit,Supermarkets,Discover,Variable,30,2024
+219,2024-07-26 00:00:00,MAPLE MARKET BELLINGHAM WA,-24.93,Credit,Supermarkets,Discover,Variable,30,2024
+220,2024-07-27 00:00:00,Subway,-4.12,Credit,Restaurants,Discover,Variable,30,2024
+221,2024-07-28 00:00:00,Fred-Meyer,-51.45,Credit,Supermarkets,Discover,Variable,30,2024
+222,2024-07-28 00:00:00,JJ'S,-14.89,Credit,Supermarkets,Discover,Variable,30,2024
+223,2024-07-28 00:00:00,McDonalds,-1.62,Credit,Restaurants,Discover,Variable,30,2024
+224,2024-07-28 00:00:00,SAMISH SUPER V BELLINGHAM WA,-7.62,Credit,Gasoline,Discover,Variable,30,2024
+225,2024-07-28 00:00:00,Cabin,-7.15,Credit,Restaurants,Discover,Variable,30,2024
+226,2024-07-28 00:00:00,Cabin,-23.78,Credit,Restaurants,Discover,Variable,30,2024
+227,2024-07-28 00:00:00,Scheinhaus,-19.06,Credit,Restaurants,Discover,Variable,30,2024
+228,2024-07-29 00:00:00,Co-Op,-14.82,Credit,Supermarkets,Discover,Variable,31,2024
+229,2024-07-31 00:00:00,JJ'S,-7.58,Credit,Supermarkets,Discover,Variable,31,2024
+230,2024-07-31 00:00:00,PUGET SOUND ENERGY,-53.45,Credit,Electric,Discover,Unknown,31,2024
+231,2024-08-01 00:00:00,Discover payment,1099.43,Debit,Finacial,Discover,?,31,2024
+232,2024-08-01 00:00:00,Scheinhaus,-7.1,Credit,Restaurants,Discover,Variable,31,2024
+233,2024-08-01 00:00:00,Scheinhaus,-7.1,Credit,Restaurants,Discover,Variable,31,2024
+234,2024-08-01 00:00:00,Fiamma Pizza,-13.36,Credit,Restaurants,Discover,Variable,31,2024
+235,2024-08-01 00:00:00,MAPLE MARKET BELLINGHAM WA,-10.06,Credit,Supermarkets,Discover,Variable,31,2024
+236,2024-08-02 00:00:00,BAYOU ON BAY BELLINGHAM WA,-78.4,Credit,Restaurants,Discover,Variable,31,2024
+237,2024-08-02 00:00:00,JJ'S,-31.31,Credit,Supermarkets,Discover,Variable,31,2024
+238,2024-08-02 00:00:00,Shell,-37.04,Credit,Gasoline,Discover,Variable,31,2024
+239,2024-08-03 00:00:00,Comcast,-39.03,Credit,Internet,Discover,Unknown,31,2024
+240,2024-08-03 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-5.65,Credit,Supermarkets,Discover,Variable,31,2024
+241,2024-08-03 00:00:00,AVENUE BREAD AND DELI RA BELLINGHAM WA,-45.76,Credit,Restaurants,Discover,Variable,31,2024
+242,2024-08-03 00:00:00,Co-Op,-19.78,Credit,Supermarkets,Discover,Variable,31,2024
+243,2024-08-03 00:00:00,Haggen,-38.03,Credit,Supermarkets,Discover,Variable,31,2024
+244,2024-08-05 00:00:00,Discover points payment,46.29,Debit,Awards and Rebate Credits,Discover,Variable,32,2024
+245,2024-08-05 00:00:00,Co-Op,-17.36,Credit,Supermarkets,Discover,Variable,32,2024
+246,2024-08-05 00:00:00,Gruff,-9.0,Credit,Restaurants,Discover,Variable,32,2024
+247,2024-08-05 00:00:00,MAPLE MARKET BELLINGHAM WA,-5.28,Credit,Supermarkets,Discover,Variable,32,2024
+248,2024-08-05 00:00:00,Just Poke,-22.87,Credit,Restaurants,Discover,Variable,32,2024
+249,2024-08-06 00:00:00,DOLLAR TREE BELLINGHAM WA,-9.54,Credit,Merchandise,Discover,Variable,32,2024
+250,2024-08-06 00:00:00,Gruff,-18.01,Credit,Restaurants,Discover,Variable,32,2024
+251,2024-08-06 00:00:00,MAPLE MARKET BELLINGHAM WA,-7.38,Credit,Supermarkets,Discover,Variable,32,2024
+252,2024-08-06 00:00:00,WESTERN WASH UNIV VT BELLINGHAM WA,-50.0,Credit,Education,Discover,?,32,2024
+253,2024-08-07 00:00:00,Co-Op,-19.59,Credit,Supermarkets,Discover,Variable,32,2024
+254,2024-08-07 00:00:00,Shell,-44.66,Credit,Gasoline,Discover,Variable,32,2024
+255,2024-08-09 00:00:00,Shell,-16.97,Credit,Gasoline,Discover,Variable,32,2024
+256,2024-08-10 00:00:00,Exxon,-7.24,Credit,Gasoline,Discover,Variable,32,2024
+257,2024-08-10 00:00:00,Fred-Meyer,-93.83,Credit,Supermarkets,Discover,Variable,32,2024
+258,2024-08-11 00:00:00,Co-Op,-10.26,Credit,Supermarkets,Discover,Variable,32,2024
+259,2024-08-13 00:00:00,Grocery Outlet,-46.97,Credit,Supermarkets,Discover,Variable,33,2024
+260,2024-08-14 00:00:00,JJ'S,-27.19,Credit,Supermarkets,Discover,Variable,33,2024
+261,2024-08-14 00:00:00,Fiamma Pizza,-12.54,Credit,Restaurants,Discover,Variable,33,2024
+262,2024-08-15 00:00:00,Grocery Outlet,-20.46,Credit,Supermarkets,Discover,Variable,33,2024
+263,2024-08-15 00:00:00,Cabin,-7.15,Credit,Restaurants,Discover,Variable,33,2024
+264,2024-08-15 00:00:00,Cabin,-8.15,Credit,Restaurants,Discover,Variable,33,2024
+265,2024-08-15 00:00:00,Cabin,-10.8,Credit,Restaurants,Discover,Variable,33,2024
+266,2024-08-15 00:00:00,Scheinhaus,-18.36,Credit,Restaurants,Discover,Variable,33,2024
+267,2024-08-15 00:00:00,Scheinhaus,-19.06,Credit,Restaurants,Discover,Variable,33,2024
+268,2024-08-16 00:00:00,Co-Op,-12.51,Credit,Supermarkets,Discover,Variable,33,2024
+269,2024-08-17 00:00:00,Grocery Outlet,-25.31,Credit,Supermarkets,Discover,Variable,33,2024
+270,2024-08-17 00:00:00,Fred-Meyer,-37.33,Credit,Supermarkets,Discover,Variable,33,2024
+271,2024-08-17 00:00:00,Haggen,-9.81,Credit,Supermarkets,Discover,Variable,33,2024
+272,2024-08-17 00:00:00,Pel'Meni,-20.7,Credit,Restaurants,Discover,Variable,33,2024
+273,2024-08-17 00:00:00,Cabin,-3.15,Credit,Restaurants,Discover,Variable,33,2024
+274,2024-08-17 00:00:00,Cabin,-4.15,Credit,Restaurants,Discover,Variable,33,2024
+275,2024-08-17 00:00:00,Cabin,-9.15,Credit,Restaurants,Discover,Variable,33,2024
+276,2024-08-17 00:00:00,THE UNDERGROUND BELLINGHAM WA,-8.0,Credit,Restaurants,Discover,Variable,33,2024
+277,2024-08-18 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-42.75,Credit,Restaurants,Discover,Variable,33,2024
+278,2024-08-18 00:00:00,Fred-Meyer,-46.94,Credit,Supermarkets,Discover,Variable,33,2024
+279,2024-08-18 00:00:00,LEAF&LADLELIBATIONS BELLINGHAM WA,-16.12,Credit,Restaurants,Discover,Variable,33,2024
+280,2024-08-20 00:00:00,Co-Op,-10.67,Credit,Supermarkets,Discover,Variable,34,2024
+281,2024-08-20 00:00:00,SAFEWAY #3285 BELLINGHAM WA,-8.19,Credit,Supermarkets,Discover,Variable,34,2024
+282,2024-08-21 00:00:00,BOOMERS DRIVE IN BELLINGHAM WA,-8.81,Credit,Restaurants,Discover,Variable,34,2024
+283,2024-08-21 00:00:00,Gruff,-18.31,Credit,Restaurants,Discover,Variable,34,2024
+284,2024-08-21 00:00:00,Discover payment,1085.95,Debit,Finacial,Discover,?,34,2024
+285,2024-08-21 00:00:00,MAPLE MARKET BELLINGHAM WA,-12.06,Credit,Supermarkets,Discover,Variable,34,2024
+286,2024-08-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,34,2024
+287,2024-08-21 00:00:00,Coffee,-9.85,Credit,Restaurants,Discover,Variable,34,2024
+288,2024-08-22 00:00:00,Fred-Meyer,-56.06,Credit,Supermarkets,Discover,Variable,34,2024
+289,2024-08-22 00:00:00,Shell,-4.35,Credit,Gasoline,Discover,Variable,34,2024
+290,2024-08-22 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,34,2024
+291,2024-08-23 00:00:00,Trash,-136.32,Credit,Trash,Discover,Unknown,34,2024
+292,2024-08-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,34,2024
+293,2024-08-24 00:00:00,Co-Op,-11.87,Credit,Supermarkets,Discover,Variable,34,2024
+294,2024-08-24 00:00:00,Fred-Meyer,-45.56,Credit,Supermarkets,Discover,Variable,34,2024
+295,2024-08-24 00:00:00,Coffee,-20.36,Credit,Restaurants,Discover,Variable,34,2024
+296,2024-08-24 00:00:00,TRADER JOE S #151 BELLINGHAM WA,-50.99,Credit,Supermarkets,Discover,Variable,34,2024
+297,2024-08-25 00:00:00,Shell,-35.68,Credit,Gasoline,Discover,Variable,34,2024
+298,2024-08-28 00:00:00,Grocery Outlet,-41.17,Credit,Supermarkets,Discover,Variable,35,2024
+299,2024-08-28 00:00:00,Co-Op,-29.36,Credit,Supermarkets,Discover,Variable,35,2024
+300,2024-08-29 00:00:00,Amazon,-25.02,Credit,Merchandise,Discover,Variable,35,2024
+301,2024-08-30 00:00:00,Grocery Outlet,-55.05,Credit,Supermarkets,Discover,Variable,35,2024
+302,2024-08-30 00:00:00,Doordash,-48.43,Credit,Restaurants,Discover,Variable,35,2024
+303,2024-08-30 00:00:00,Gruff,-9.16,Credit,Restaurants,Discover,Variable,35,2024
+304,2024-08-30 00:00:00,PUGET SOUND ENERGY,-56.17,Credit,Electric,Discover,Unknown,35,2024
+305,2024-08-31 00:00:00,BEAVER INN BELLINGHAM WA,-21.75,Credit,Restaurants,Discover,Variable,35,2024
+306,2024-08-31 00:00:00,Coffee,-8.01,Credit,Restaurants,Discover,Variable,35,2024
+307,2024-08-31 00:00:00,Value Village,-25.89,Credit,Merchandise,Discover,Variable,35,2024
+308,2024-09-01 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-14.75,Credit,Restaurants,Discover,Variable,35,2024
+309,2024-09-01 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,35,2024
+310,2024-09-01 00:00:00,JJ'S,-9.01,Credit,Supermarkets,Discover,Variable,35,2024
+311,2024-09-01 00:00:00,Elcapitans,-8.0,Credit,Supermarkets,Discover,Variable,35,2024
+312,2024-09-01 00:00:00,Scheinhaus,-10.32,Credit,Restaurants,Discover,Variable,35,2024
+313,2024-09-01 00:00:00,Scheinhaus,-25.8,Credit,Restaurants,Discover,Variable,35,2024
+314,2024-09-03 00:00:00,Comcast,-71.36,Credit,Internet,Discover,Unknown,36,2024
+315,2024-09-05 00:00:00,Discover points payment,47.95,Debit,Awards and Rebate Credits,Discover,Variable,36,2024
+316,2024-09-05 00:00:00,Discover payment,880.0,Debit,Finacial,Discover,?,36,2024
+317,2024-09-06 00:00:00,Haggen,-16.07,Credit,Supermarkets,Discover,Variable,36,2024
+318,2024-09-06 00:00:00,REI #65 BELLINGHAM BELLINGHAM WA00614R,-22.81,Credit,Merchandise,Discover,Variable,36,2024
+319,2024-09-07 00:00:00,Grocery Outlet,-63.75,Credit,Supermarkets,Discover,Variable,36,2024
+320,2024-09-08 00:00:00,Co-Op,-7.06,Credit,Supermarkets,Discover,Variable,36,2024
+321,2024-09-08 00:00:00,TST*THE COFFEE SHOP BY BELLINGHAM WA00119379019998011467AA,-27.58,Credit,Restaurants,Discover,Variable,36,2024
+322,2024-09-09 00:00:00,Co-Op,-11.24,Credit,Supermarkets,Discover,Variable,37,2024
+323,2024-09-10 00:00:00,MAPLE MARKET BELLINGHAM WA,-21.53,Credit,Supermarkets,Discover,Variable,37,2024
+324,2024-09-10 00:00:00,MAPLE MARKET BELLINGHAM WA,-48.55,Credit,Supermarkets,Discover,Variable,37,2024
+325,2024-09-11 00:00:00,Co-Op,-23.64,Credit,Supermarkets,Discover,Variable,37,2024
+326,2024-09-11 00:00:00,Shell,-19.24,Credit,Gasoline,Discover,Variable,37,2024
+327,2024-09-12 00:00:00,Grocery Outlet,-12.43,Credit,Supermarkets,Discover,Variable,37,2024
+328,2024-09-12 00:00:00,Shell,-32.02,Credit,Gasoline,Discover,Variable,37,2024
+329,2024-09-13 00:00:00,BOOMERS DRIVE IN BELLINGHAM WA,-12.99,Credit,Restaurants,Discover,Variable,37,2024
+330,2024-09-13 00:00:00,Co-Op,-4.35,Credit,Supermarkets,Discover,Variable,37,2024
+331,2024-09-13 00:00:00,HORSESHOE CAFE BELLINGHAM WA,-8.24,Credit,Restaurants,Discover,Variable,37,2024
+332,2024-09-13 00:00:00,Shell,-26.15,Credit,Gasoline,Discover,Variable,37,2024
+333,2024-09-13 00:00:00,Coffee,-11.35,Credit,Restaurants,Discover,Variable,37,2024
+334,2024-09-14 00:00:00,Co-Op,-5.9,Credit,Supermarkets,Discover,Variable,37,2024
+335,2024-09-14 00:00:00,Co-Op,-7.24,Credit,Supermarkets,Discover,Variable,37,2024
+336,2024-09-14 00:00:00,JJ'S,-9.28,Credit,Supermarkets,Discover,Variable,37,2024
+337,2024-09-14 00:00:00,Cabin,-3.72,Credit,Restaurants,Discover,Variable,37,2024
+338,2024-09-14 00:00:00,Cabin,-10.8,Credit,Restaurants,Discover,Variable,37,2024
+339,2024-09-14 00:00:00,Cabin,-19.65,Credit,Restaurants,Discover,Variable,37,2024
+340,2024-09-15 00:00:00,Fred-Meyer,-67.24,Credit,Supermarkets,Discover,Variable,37,2024
+341,2024-09-15 00:00:00,Otherside,-32.68,Credit,Restaurants,Discover,Variable,37,2024
+342,2024-09-17 00:00:00,TADEOS MEXICAN RESTAURAN BELLINGHAM WA,-162.45,Credit,Restaurants,Discover,Variable,38,2024
+343,2024-09-19 00:00:00,Co-Op,-17.47,Credit,Supermarkets,Discover,Variable,38,2024
+344,2024-09-19 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,38,2024
+345,2024-09-20 00:00:00,Co-Op,-21.05,Credit,Supermarkets,Discover,Variable,38,2024
+346,2024-09-20 00:00:00,Gruff,-37.3,Credit,Restaurants,Discover,Variable,38,2024
+347,2024-09-20 00:00:00,MAPLE MARKET BELLINGHAM WA,-21.53,Credit,Supermarkets,Discover,Variable,38,2024
+348,2024-09-20 00:00:00,Fiamma Pizza,-1.36,Credit,Restaurants,Discover,Variable,38,2024
+349,2024-09-21 00:00:00,Haggen,-20.14,Credit,Supermarkets,Discover,Variable,38,2024
+350,2024-09-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,38,2024
+351,2024-09-21 00:00:00,Pizza Time,-25.16,Credit,Restaurants,Discover,Variable,38,2024
+352,2024-09-21 00:00:00,SQ *EVOLVE CHOCOLATE BELLINGHAM WA0001152921514555876242,-7.54,Credit,Restaurants,Discover,Variable,38,2024
+353,2024-09-22 00:00:00,Grocery Outlet,-36.47,Credit,Supermarkets,Discover,Variable,38,2024
+354,2024-09-22 00:00:00,Co-Op,-3.79,Credit,Supermarkets,Discover,Variable,38,2024
+355,2024-09-22 00:00:00,Doordash,-65.74,Credit,Restaurants,Discover,Variable,38,2024
+356,2024-09-22 00:00:00,Coffee,-11.1,Credit,Restaurants,Discover,Variable,38,2024
+357,2024-09-23 00:00:00,Co-Op,-25.56,Credit,Supermarkets,Discover,Variable,39,2024
+358,2024-09-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,39,2024
+359,2024-09-24 00:00:00,IN AND OUT FOOD MART BELLINGHAM WA,-19.47,Credit,Supermarkets,Discover,Variable,39,2024
+360,2024-09-25 00:00:00,Otherside,-11.34,Credit,Restaurants,Discover,Variable,39,2024
+361,2024-09-25 00:00:00,Otherside,-12.44,Credit,Restaurants,Discover,Variable,39,2024
+362,2024-09-27 00:00:00,Fred-Meyer,-52.33,Credit,Supermarkets,Discover,Variable,39,2024
+363,2024-09-27 00:00:00,MAPLE MARKET BELLINGHAM WA,-48.77,Credit,Supermarkets,Discover,Variable,39,2024
+364,2024-09-28 00:00:00,BOOMERS DRIVE IN BELLINGHAM WA,-25.02,Credit,Restaurants,Discover,Variable,39,2024
+365,2024-09-28 00:00:00,Co-Op,-9.79,Credit,Supermarkets,Discover,Variable,39,2024
+366,2024-09-28 00:00:00,Fred-Meyer,-49.1,Credit,Supermarkets,Discover,Variable,39,2024
+367,2024-09-28 00:00:00,JJ'S,-12.7,Credit,Supermarkets,Discover,Variable,39,2024
+368,2024-09-28 00:00:00,JJ'S,-18.41,Credit,Supermarkets,Discover,Variable,39,2024
+369,2024-09-29 00:00:00,Grocery Outlet,-34.7,Credit,Supermarkets,Discover,Variable,39,2024
+370,2024-09-29 00:00:00,Cabin,-3.72,Credit,Restaurants,Discover,Variable,39,2024
+371,2024-09-29 00:00:00,Cabin,-10.98,Credit,Restaurants,Discover,Variable,39,2024
+372,2024-09-29 00:00:00,Elcapitans,-19.79,Credit,Supermarkets,Discover,Variable,39,2024
+373,2024-09-30 00:00:00,Amazon,-23.66,Credit,Merchandise,Discover,Variable,40,2024
+374,2024-09-30 00:00:00,Discover payment,1143.85,Debit,Finacial,Discover,?,40,2024
+375,2024-10-01 00:00:00,PUGET SOUND ENERGY,-59.27,Credit,Electric,Discover,Unknown,40,2024
+376,2024-10-01 00:00:00,TOKYO HOUSE BELLINGHAM WA,-15.25,Credit,Restaurants,Discover,Variable,40,2024
+377,2024-10-02 00:00:00,Co-Op,-18.36,Credit,Supermarkets,Discover,Variable,40,2024
+378,2024-10-02 00:00:00,Burrito King,-12.08,Credit,Travel/ Entertainment,Discover,Variable,40,2024
+379,2024-10-03 00:00:00,Comcast,-106.75,Credit,Internet,Discover,Unknown,40,2024
+380,2024-10-03 00:00:00,Fred-Meyer,-33.85,Credit,Supermarkets,Discover,Variable,40,2024
+381,2024-10-04 00:00:00,Just Poke,-19.61,Credit,Restaurants,Discover,Variable,40,2024
+382,2024-10-04 00:00:00,WWU ZOES BKSIDE BAGELS BELLINGHAM WA,-6.53,Credit,Restaurants,Discover,Variable,40,2024
+383,2024-10-05 00:00:00,Discover points payment,16.11,Debit,Awards and Rebate Credits,Discover,Variable,40,2024
+384,2024-10-05 00:00:00,Fred-Meyer,-69.0,Credit,Supermarkets,Discover,Variable,40,2024
+385,2024-10-05 00:00:00,Haggen,-38.25,Credit,Supermarkets,Discover,Variable,40,2024
+386,2024-10-05 00:00:00,Shell,-29.5,Credit,Gasoline,Discover,Variable,40,2024
+387,2024-10-06 00:00:00,Co-Op,-13.47,Credit,Supermarkets,Discover,Variable,40,2024
+388,2024-10-06 00:00:00,JJ'S,-14.89,Credit,Supermarkets,Discover,Variable,40,2024
+389,2024-10-06 00:00:00,Shell,-32.69,Credit,Gasoline,Discover,Variable,40,2024
+390,2024-10-06 00:00:00,SQ *BELLEWOOD FARMS LYNDEN WA0001152921514612493650,-31.49,Credit,Supermarkets,Discover,Variable,40,2024
+391,2024-10-06 00:00:00,SQ *BELLEWOOD FARMS LYNDEN WA0001152921514612101819,-36.0,Credit,Supermarkets,Discover,Variable,40,2024
+392,2024-10-07 00:00:00,Wegmans,-116.6,Credit,Supermarkets,Discover,Variable,41,2024
+393,2024-10-09 00:00:00,Trash,-136.32,Credit,Trash,Discover,Unknown,41,2024
+394,2024-10-10 00:00:00,American Airlines,-4.52,Credit,Travel/ Entertainment,Discover,Variable,41,2024
+395,2024-10-10 00:00:00,American Airlines,-48.48,Credit,Travel/ Entertainment,Discover,Variable,41,2024
+396,2024-10-10 00:00:00,REINDEER SHUTTLE INC 7656375124 IN,-65.0,Credit,Travel/ Entertainment,Discover,Variable,41,2024
+397,2024-10-10 00:00:00,SQ *PAWS FOR A BEER BELLINGHAM WA0001152921514625917933,-19.2,Credit,Restaurants,Discover,Variable,41,2024
+398,2024-10-10 00:00:00,QQ LI'S,-15.0,Credit,Restaurants,Discover,Variable,41,2024
+399,2024-10-11 00:00:00,Co-Op,-17.42,Credit,Supermarkets,Discover,Variable,41,2024
+400,2024-10-11 00:00:00,THE BLACK CAT BELLINGHAM WA,-78.4,Credit,Restaurants,Discover,Variable,41,2024
+401,2024-10-11 00:00:00,TST* 1-UP LOUNGE BELLINGHAM WA,-22.25,Credit,Restaurants,Discover,Variable,41,2024
+402,2024-10-11 00:00:00,Pizza Time,-28.37,Credit,Restaurants,Discover,Variable,41,2024
+403,2024-10-12 00:00:00,Co-Op,-4.99,Credit,Supermarkets,Discover,Variable,41,2024
+404,2024-10-12 00:00:00,Dakota Art Store,-7.89,Credit,Merchandise,Discover,Variable,41,2024
+405,2024-10-12 00:00:00,Fred-Meyer,-14.48,Credit,Supermarkets,Discover,Variable,41,2024
+406,2024-10-12 00:00:00,Fred-Meyer,-32.67,Credit,Supermarkets,Discover,Variable,41,2024
+407,2024-10-12 00:00:00,Gruff,-9.16,Credit,Restaurants,Discover,Variable,41,2024
+408,2024-10-12 00:00:00,Coffee,-7.01,Credit,Restaurants,Discover,Variable,41,2024
+409,2024-10-12 00:00:00,MAPLE MARKET BELLINGHAM WA,-16.99,Credit,Supermarkets,Discover,Variable,41,2024
+410,2024-10-12 00:00:00,MAPLE MARKET BELLINGHAM WA,-24.12,Credit,Supermarkets,Discover,Variable,41,2024
+411,2024-10-12 00:00:00,MAPLE MARKET BELLINGHAM WA,-28.33,Credit,Supermarkets,Discover,Variable,41,2024
+412,2024-10-12 00:00:00,Coffee,-10.18,Credit,Restaurants,Discover,Variable,41,2024
+413,2024-10-12 00:00:00,Pel'Meni,-20.7,Credit,Restaurants,Discover,Variable,41,2024
+414,2024-10-13 00:00:00,Grocery Outlet,-43.12,Credit,Supermarkets,Discover,Variable,41,2024
+415,2024-10-14 00:00:00,MAPLE MARKET BELLINGHAM WA,-22.66,Credit,Supermarkets,Discover,Variable,42,2024
+416,2024-10-15 00:00:00,Shell,-16.34,Credit,Gasoline,Discover,Variable,42,2024
+417,2024-10-17 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,42,2024
+418,2024-10-18 00:00:00,BEAVER INN BELLINGHAM WA,-6.0,Credit,Restaurants,Discover,Variable,42,2024
+419,2024-10-18 00:00:00,BEAVER INN BELLINGHAM WA,-43.75,Credit,Restaurants,Discover,Variable,42,2024
+420,2024-10-18 00:00:00,HORSESHOE CAFE BELLINGHAM WA,-19.37,Credit,Restaurants,Discover,Variable,42,2024
+421,2024-10-18 00:00:00,JJ'S,-24.57,Credit,Supermarkets,Discover,Variable,42,2024
+422,2024-10-18 00:00:00,JJ'S,-33.07,Credit,Supermarkets,Discover,Variable,42,2024
+423,2024-10-18 00:00:00,QQ LI'S,-7.5,Credit,Restaurants,Discover,Variable,42,2024
+424,2024-10-18 00:00:00,Burrito King,-12.6,Credit,Travel/ Entertainment,Discover,Variable,42,2024
+425,2024-10-18 00:00:00,Accomplice,-41.92,Credit,Restaurants,Discover,Variable,42,2024
+426,2024-10-18 00:00:00,Otherside,-21.38,Credit,Restaurants,Discover,Variable,42,2024
+427,2024-10-19 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-41.75,Credit,Restaurants,Discover,Variable,42,2024
+428,2024-10-19 00:00:00,Fred-Meyer,-82.16,Credit,Supermarkets,Discover,Variable,42,2024
+429,2024-10-19 00:00:00,Pizza Time,-35.31,Credit,Restaurants,Discover,Variable,42,2024
+430,2024-10-20 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,42,2024
+431,2024-10-20 00:00:00,Fred-Meyer,-47.31,Credit,Supermarkets,Discover,Variable,42,2024
+432,2024-10-20 00:00:00,MAPLE MARKET BELLINGHAM WA,-18.91,Credit,Supermarkets,Discover,Variable,42,2024
+433,2024-10-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,43,2024
+434,2024-10-22 00:00:00,Shell,-28.33,Credit,Gasoline,Discover,Variable,43,2024
+435,2024-10-23 00:00:00,Fred-Meyer,-94.0,Credit,Supermarkets,Discover,Variable,43,2024
+436,2024-10-23 00:00:00,Subway,-13.94,Credit,Restaurants,Discover,Variable,43,2024
+437,2024-10-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,43,2024
+438,2024-10-25 00:00:00,Shell,-13.07,Credit,Gasoline,Discover,Variable,43,2024
+439,2024-10-25 00:00:00,Fiamma Pizza,-13.08,Credit,Restaurants,Discover,Variable,43,2024
+440,2024-10-26 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,43,2024
+441,2024-10-26 00:00:00,Fred-Meyer,-37.12,Credit,Supermarkets,Discover,Variable,43,2024
+442,2024-10-26 00:00:00,Orion,-18.0,Credit,Restaurants,Discover,Variable,43,2024
+443,2024-10-26 00:00:00,Elcapitans,-7.25,Credit,Supermarkets,Discover,Variable,43,2024
+444,2024-10-26 00:00:00,Elcapitans,-16.1,Credit,Supermarkets,Discover,Variable,43,2024
+445,2024-10-26 00:00:00,Scheinhaus,-58.08,Credit,Restaurants,Discover,Variable,43,2024
+446,2024-10-27 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,43,2024
+447,2024-10-27 00:00:00,Exxon,-27.25,Credit,Gasoline,Discover,Variable,43,2024
+448,2024-10-28 00:00:00,Discover payment,1000.0,Debit,Finacial,Discover,?,44,2024
+449,2024-10-29 00:00:00,Co-Op,-5.44,Credit,Supermarkets,Discover,Variable,44,2024
+450,2024-10-29 00:00:00,Shell,-7.61,Credit,Gasoline,Discover,Variable,44,2024
+451,2024-10-29 00:00:00,TARGET 00003483091 BELLINGHAM WA,-30.4,Credit,Supermarkets,Discover,Variable,44,2024
+452,2024-10-29 00:00:00,TRADER JOE S #151 BELLINGHAM WA,-9.67,Credit,Supermarkets,Discover,Variable,44,2024
+453,2024-10-31 00:00:00,QQ LI'S,-15.0,Credit,Restaurants,Discover,Variable,44,2024
+454,2024-10-31 00:00:00,Otherside,-14.87,Credit,Restaurants,Discover,Variable,44,2024
+455,2024-11-01 00:00:00,PUGET SOUND ENERGY,-55.21,Credit,Electric,Discover,Unknown,44,2024
+456,2024-11-01 00:00:00,Shell,-41.92,Credit,Gasoline,Discover,Variable,44,2024
+457,2024-11-02 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,44,2024
+458,2024-11-02 00:00:00,Doordash,-41.61,Credit,Restaurants,Discover,Variable,44,2024
+459,2024-11-02 00:00:00,Fred-Meyer,-97.52,Credit,Supermarkets,Discover,Variable,44,2024
+460,2024-11-03 00:00:00,Comcast,-106.75,Credit,Internet,Discover,Unknown,44,2024
+461,2024-11-03 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,44,2024
+462,2024-11-03 00:00:00,Fred-Meyer,-11.8,Credit,Supermarkets,Discover,Variable,44,2024
+463,2024-11-03 00:00:00,Pel'Meni,-2.0,Credit,Restaurants,Discover,Variable,44,2024
+464,2024-11-03 00:00:00,Pel'Meni,-31.05,Credit,Restaurants,Discover,Variable,44,2024
+465,2024-11-05 00:00:00,Discover points payment,24.0,Debit,Awards and Rebate Credits,Discover,Variable,45,2024
+466,2024-11-05 00:00:00,Discover payment,1856.21,Debit,Finacial,Discover,?,45,2024
+467,2024-11-05 00:00:00,Shell,-37.04,Credit,Gasoline,Discover,Variable,45,2024
+468,2024-11-05 00:00:00,QQ LI'S,-15.0,Credit,Restaurants,Discover,Variable,45,2024
+469,2024-11-06 00:00:00,Shell,-17.41,Credit,Gasoline,Discover,Variable,45,2024
+470,2024-11-07 00:00:00,Otherside,-14.87,Credit,Restaurants,Discover,Variable,45,2024
+471,2024-11-08 00:00:00,Shell,-31.23,Credit,Gasoline,Discover,Variable,45,2024
+472,2024-11-08 00:00:00,Burrito King,-9.78,Credit,Travel/ Entertainment,Discover,Variable,45,2024
+473,2024-11-08 00:00:00,On campus,-14.57,Credit,Gasoline,Discover,Variable,45,2024
+474,2024-11-08 00:00:00,On campus,-3.7,Credit,Gasoline,Discover,Variable,45,2024
+475,2024-11-09 00:00:00,Co-Op,-8.98,Credit,Supermarkets,Discover,Variable,45,2024
+476,2024-11-09 00:00:00,Doordash,-26.78,Credit,Restaurants,Discover,Variable,45,2024
+477,2024-11-09 00:00:00,Coffee,-8.01,Credit,Restaurants,Discover,Variable,45,2024
+478,2024-11-09 00:00:00,Shell,-63.11,Credit,Gasoline,Discover,Variable,45,2024
+479,2024-11-10 00:00:00,Fred-Meyer,-25.95,Credit,Supermarkets,Discover,Variable,45,2024
+480,2024-11-10 00:00:00,Haggen,-9.98,Credit,Supermarkets,Discover,Variable,45,2024
+481,2024-11-10 00:00:00,SPEEDWAY 2174 BURLINGTON WA,-27.14,Credit,Gasoline,Discover,Variable,45,2024
+482,2024-11-10 00:00:00,SQ *TEMPERATE HABITS B MOUNT VERNON WA0001152921514759311035,-7.53,Credit,Supermarkets,Discover,Variable,45,2024
+483,2024-11-11 00:00:00,TRADER JOE S #151 BELLINGHAM WA,-13.06,Credit,Supermarkets,Discover,Variable,46,2024
+484,2024-11-12 00:00:00,Exxon,-3.15,Credit,Gasoline,Discover,Variable,46,2024
+485,2024-11-12 00:00:00,QDOBA 1775 SEATTLE CA01248R,-27.99,Credit,Restaurants,Discover,Variable,46,2024
+486,2024-11-12 00:00:00,Burrito King,-10.92,Credit,Travel/ Entertainment,Discover,Variable,46,2024
+487,2024-11-13 00:00:00,Apple,-2.99,Credit,Subscriptions,Discover,?,46,2024
+488,2024-11-13 00:00:00,Apple,-9.99,Credit,Subscriptions,Discover,?,46,2024
+489,2024-11-13 00:00:00,CVS/PHARMACY #10257 WEST LAFAYETTIN,-24.36,Credit,Merchandise,Discover,Variable,46,2024
+490,2024-11-13 00:00:00,SQ *FUEL WEST WEST LAFAYETTIN0002305843020989987048,-8.56,Credit,Restaurants,Discover,Variable,46,2024
+491,2024-11-14 00:00:00,CVS/PHARMACY #10257 WEST LAFAYETTIN,-5.35,Credit,Merchandise,Discover,Variable,46,2024
+492,2024-11-14 00:00:00,McDonalds,-8.0,Credit,Restaurants,Discover,Variable,46,2024
+493,2024-11-14 00:00:00,TST*AJS BURGERS AND BE WEST LAFAYETTIN00118739021321142699AA,-69.2,Credit,Restaurants,Discover,Variable,46,2024
+494,2024-11-14 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,46,2024
+495,2024-11-15 00:00:00,McDonalds,-8.0,Credit,Restaurants,Discover,Variable,46,2024
+496,2024-11-16 00:00:00,CVS/PHARMACY #10257 WEST LAFAYETTIN,-8.86,Credit,Merchandise,Discover,Variable,46,2024
+497,2024-11-16 00:00:00,LEVY@ 2PURDUE UNIV-CON WEST LAFAYETTIN,-10.15,Credit,Restaurants,Discover,Variable,46,2024
+498,2024-11-19 00:00:00,SUNOCO 0456977800 FAIRPORT NY,-6.47,Credit,Gasoline,Discover,Variable,47,2024
+499,2024-11-19 00:00:00,Wegmans,-50.07,Credit,Supermarkets,Discover,Variable,47,2024
+500,2024-11-20 00:00:00,Apple,-2.99,Credit,Subscriptions,Discover,?,47,2024
+501,2024-11-21 00:00:00,Exxon,-3.21,Credit,Gasoline,Discover,Variable,47,2024
+502,2024-11-21 00:00:00,Exxon,-10.87,Credit,Gasoline,Discover,Variable,47,2024
+503,2024-11-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,47,2024
+504,2024-11-21 00:00:00,Walmart,-7.49,Credit,Merchandise,Discover,Variable,47,2024
+505,2024-11-22 00:00:00,BRUEGGERS 3879 PITTSFORD NY,-22.22,Credit,Restaurants,Discover,Variable,47,2024
+506,2024-11-22 00:00:00,GOLDEN FARMS ROCHESTER NY,-9.47,Credit,Supermarkets,Discover,Variable,47,2024
+507,2024-11-22 00:00:00,GOLDEN KING ROCHESTER NY,-49.99,Credit,Merchandise,Discover,Variable,47,2024
+508,2024-11-23 00:00:00,Dunkin,-4.74,Credit,Restaurants,Discover,Variable,47,2024
+509,2024-11-23 00:00:00,Wegmans,-90.26,Credit,Supermarkets,Discover,Variable,47,2024
+510,2024-11-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,47,2024
+511,2024-11-24 00:00:00,PONTILLO'S BUSHNELL'S BA PITTSFORD NY,-2.51,Credit,Restaurants,Discover,Variable,47,2024
+512,2024-11-24 00:00:00,PONTILLO'S BUSHNELL'S BA PITTSFORD NY,-15.24,Credit,Restaurants,Discover,Variable,47,2024
+513,2024-11-25 00:00:00,ER SPIRITS AND WINE EAST ROCHESTENY,-22.35,Credit,Merchandise,Discover,Variable,48,2024
+514,2024-11-25 00:00:00,Wegmans,-29.74,Credit,Supermarkets,Discover,Variable,48,2024
+515,2024-11-27 00:00:00,Exxon,-23.35,Credit,Gasoline,Discover,Variable,48,2024
+516,2024-11-27 00:00:00,THE BASIN PUB PITTSFORD NY,-42.0,Credit,Restaurants,Discover,Variable,48,2024
+517,2024-11-28 00:00:00,Exxon,-14.01,Credit,Gasoline,Discover,Variable,48,2024
+518,2024-11-29 00:00:00,GOLDEN KING ROCHESTER NY,-44.99,Credit,Merchandise,Discover,Variable,48,2024
+519,2024-11-29 00:00:00,IRON SMOKE DISTILLERY FAIRPORT NY,-9.0,Credit,Restaurants,Discover,Variable,48,2024
+520,2024-11-29 00:00:00,IRON SMOKE DISTILLERY FAIRPORT NY,-10.0,Credit,Restaurants,Discover,Variable,48,2024
+521,2024-11-29 00:00:00,IRON SMOKE DISTILLERY FAIRPORT NY,-64.0,Credit,Restaurants,Discover,Variable,48,2024
+522,2024-11-29 00:00:00,SQ *IRON SMOKE DISTILL FAIRPORT NY0002305843021073910306,-20.0,Credit,Merchandise,Discover,Variable,48,2024
+523,2024-11-30 00:00:00,Apple,-10.89,Credit,Subscriptions,Discover,?,48,2024
+524,2024-11-30 00:00:00,BOILING POINT - SEATTLE SEATTLE WA,-88.19,Credit,Restaurants,Discover,Variable,48,2024
+525,2024-11-30 00:00:00,Dunkin,-5.93,Credit,Restaurants,Discover,Variable,48,2024
+526,2024-11-30 00:00:00,Fred-Meyer,-83.64,Credit,Supermarkets,Discover,Variable,48,2024
+527,2024-11-30 00:00:00,HUDSON ST1405 STERLING VA,-3.36,Credit,Merchandise,Discover,Variable,48,2024
+528,2024-11-30 00:00:00,SQ *GEORGE?S DELI SEATTLE WA0001152921514834890276,-20.98,Credit,Supermarkets,Discover,Variable,48,2024
+529,2024-11-30 00:00:00,TST*BLAZING BAGELS - S SEATTLE WA00054153021620469843AA,-23.5,Credit,Restaurants,Discover,Variable,48,2024
+530,2024-12-01 00:00:00,Coffee,-10.6,Credit,Restaurants,Discover,Variable,48,2024
+531,2024-12-02 00:00:00,Fred-Meyer,-115.26,Credit,Supermarkets,Discover,Variable,49,2024
+532,2024-12-03 00:00:00,Comcast,-106.75,Credit,Internet,Discover,Unknown,49,2024
+533,2024-12-03 00:00:00,PUGET SOUND ENERGY,-60.03,Credit,Electric,Discover,Unknown,49,2024
+534,2024-12-04 00:00:00,Amazon,-32.42,Credit,Merchandise,Discover,Variable,49,2024
+535,2024-12-05 00:00:00,Discover points payment,16.47,Debit,Awards and Rebate Credits,Discover,Variable,49,2024
+536,2024-12-05 00:00:00,CASHBACK BONUS REDEMPTION PYMT/STMT CRDT,16.47,Debit,Awards and Rebate Credits,Discover,Variable,49,2024
+537,2024-12-05 00:00:00,Discover payment,1607.97,Debit,Finacial,Discover,?,49,2024
+538,2024-12-06 00:00:00,Fred-Meyer,-68.06,Credit,Supermarkets,Discover,Variable,49,2024
+539,2024-12-07 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,49,2024
+540,2024-12-07 00:00:00,Fred-Meyer,-71.7,Credit,Supermarkets,Discover,Variable,49,2024
+541,2024-12-07 00:00:00,Gruff,-10.29,Credit,Restaurants,Discover,Variable,49,2024
+542,2024-12-07 00:00:00,Gruff,-15.43,Credit,Restaurants,Discover,Variable,49,2024
+543,2024-12-07 00:00:00,Pizza Time,-35.31,Credit,Restaurants,Discover,Variable,49,2024
+544,2024-12-08 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,49,2024
+545,2024-12-08 00:00:00,Fred-Meyer,-23.03,Credit,Supermarkets,Discover,Variable,49,2024
+546,2024-12-08 00:00:00,TARGET 00003483091 BELLINGHAM WA,-69.87,Credit,Supermarkets,Discover,Variable,49,2024
+547,2024-12-11 00:00:00,Co-Op,-15.26,Credit,Supermarkets,Discover,Variable,50,2024
+548,2024-12-11 00:00:00,Co-Op,-30.89,Credit,Supermarkets,Discover,Variable,50,2024
+549,2024-12-12 00:00:00,Shell,-27.24,Credit,Gasoline,Discover,Variable,50,2024
+550,2024-12-12 00:00:00,Otherside,-14.87,Credit,Restaurants,Discover,Variable,50,2024
+551,2024-12-12 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,50,2024
+552,2024-12-13 00:00:00,Co-Op,-4.35,Credit,Supermarkets,Discover,Variable,50,2024
+553,2024-12-13 00:00:00,HUDSON ST 1479 SEATAC WA,-10.48,Credit,Merchandise,Discover,Variable,50,2024
+554,2024-12-13 00:00:00,SEA KOISHISUSHIBENTOCT26 TUKWILA WA,-48.96,Credit,Restaurants,Discover,Variable,50,2024
+555,2024-12-13 00:00:00,Just Poke,-22.87,Credit,Restaurants,Discover,Variable,50,2024
+556,2024-12-13 00:00:00,Accomplice,-17.78,Credit,Restaurants,Discover,Variable,50,2024
+557,2024-12-14 00:00:00,ARCHIMAGE LLC ROCHESTER NY,-9.72,Credit,Merchandise,Discover,Variable,50,2024
+558,2024-12-14 00:00:00,Dunkin,-15.7,Credit,Restaurants,Discover,Variable,50,2024
+559,2024-12-14 00:00:00,GOLDEN KING ROCHESTER NY,-24.99,Credit,Merchandise,Discover,Variable,50,2024
+560,2024-12-16 00:00:00,WALGREENS #19495 PITTSFORD NY,-26.33,Credit,Merchandise,Discover,Variable,51,2024
+561,2024-12-18 00:00:00,Amazon,-70.19,Credit,Merchandise,Discover,Variable,51,2024
+562,2024-12-18 00:00:00,Exxon,-23.35,Credit,Gasoline,Discover,Variable,51,2024
+563,2024-12-18 00:00:00,THE BASIN PUB PITTSFORD NY,-28.0,Credit,Restaurants,Discover,Variable,51,2024
+564,2024-12-19 00:00:00,BRUEGGERS 3879 PITTSFORD NY,-9.33,Credit,Restaurants,Discover,Variable,51,2024
+565,2024-12-20 00:00:00,Apple,-2.99,Credit,Subscriptions,Discover,?,51,2024
+566,2024-12-20 00:00:00,SUNOCO 8000660502 EAST ROCHESTENY,-26.12,Credit,Gasoline,Discover,Variable,51,2024
+567,2024-12-20 00:00:00,THECLOUDFACTORY EAST ROCHESTENY,-28.15,Credit,Merchandise,Discover,Variable,51,2024
+568,2024-12-21 00:00:00,MARATHON PETRO89730 PITTSFORD NY,-47.92,Credit,Gasoline,Discover,Variable,51,2024
+569,2024-12-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,51,2024
+570,2024-12-21 00:00:00,Wegmans,-40.79,Credit,Supermarkets,Discover,Variable,51,2024
+571,2024-12-22 00:00:00,TST*STRANGEBIRD - ROCH ROCHESTER NY00140793022051475267AA,-53.76,Credit,Restaurants,Discover,Variable,51,2024
+572,2024-12-22 00:00:00,TST*STRANGEBIRD - ROCH ROCHESTER NY00140793022051210971AA,-61.04,Credit,Restaurants,Discover,Variable,51,2024
+573,2024-12-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,52,2024
+574,2024-12-26 00:00:00,Exxon,-51.22,Credit,Gasoline,Discover,Variable,52,2024
+575,2024-12-26 00:00:00,JOECOFFEE-CAFE DIEDRIC 2065313212 WA,-10.07,Credit,Restaurants,Discover,Variable,52,2024
+576,2024-12-26 00:00:00,TST*SEOUL BOWL SEATTLE SEATTLE WA00134634022098576977AA,-39.98,Credit,Restaurants,Discover,Variable,52,2024
+577,2024-12-27 00:00:00,Grocery Outlet,-34.54,Credit,Supermarkets,Discover,Variable,52,2024
+578,2024-12-27 00:00:00,BOOMERS DRIVE IN BELLINGHAM WA,-16.27,Credit,Restaurants,Discover,Variable,52,2024
+579,2024-12-27 00:00:00,Fred-Meyer,-81.77,Credit,Supermarkets,Discover,Variable,52,2024
+580,2024-12-27 00:00:00,Coffee,-7.01,Credit,Restaurants,Discover,Variable,52,2024
+581,2024-12-27 00:00:00,Pizza Time,-26.48,Credit,Restaurants,Discover,Variable,52,2024
+582,2024-12-28 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,52,2024
+583,2024-12-28 00:00:00,Fred-Meyer,-51.2,Credit,Supermarkets,Discover,Variable,52,2024
+584,2024-12-28 00:00:00,Fred-Meyer,-96.23,Credit,Supermarkets,Discover,Variable,52,2024
+585,2024-12-28 00:00:00,Whole Foods,-47.31,Credit,Restaurants,Discover,Variable,52,2024
+586,2024-12-29 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,52,2024
+587,2024-12-29 00:00:00,MACYS BELLINGHAM BELLINGHAM WA,-120.53,Credit,Department Stores,Discover,Variable,52,2024
+588,2024-12-29 00:00:00,Trash,-136.32,Credit,Trash,Discover,Unknown,52,2024
+589,2024-12-29 00:00:00,Shell,-36.38,Credit,Gasoline,Discover,Variable,52,2024
+590,2024-12-29 00:00:00,TARGET 00003483091 BELLINGHAM WA,-118.24,Credit,Supermarkets,Discover,Variable,52,2024
+591,2024-12-30 00:00:00,Apple,-10.89,Credit,Subscriptions,Discover,?,1,2025
+592,2024-12-30 00:00:00,Coffee,-13.25,Credit,Restaurants,Discover,Variable,1,2025
+593,2024-12-30 00:00:00,Fred-Meyer,-16.93,Credit,Supermarkets,Discover,Variable,1,2025
+594,2024-12-30 00:00:00,Haggen,-38.5,Credit,Supermarkets,Discover,Variable,1,2025
+595,2024-12-31 00:00:00,Fred-Meyer,-63.43,Credit,Supermarkets,Discover,Variable,1,2025
+596,2025-01-01 00:00:00,Fiamma Pizza,-53.21,Credit,Restaurants,Discover,Variable,1,2025
+597,2025-01-02 00:00:00,Doordash,-26.28,Credit,Restaurants,Discover,Variable,1,2025
+598,2025-01-02 00:00:00,PUGET SOUND ENERGY,-66.17,Credit,Electric,Discover,Unknown,1,2025
+599,2025-01-02 00:00:00,Seatac airport shuttle,-54.0,Credit,Transit,Discover,Fixed,1,2025
+600,2025-01-02 00:00:00,Shell,-35.96,Credit,Gasoline,Discover,Variable,1,2025
+601,2025-01-03 00:00:00,Comcast,-106.75,Credit,Internet,Discover,Unknown,1,2025
+602,2025-01-03 00:00:00,MAPLE MARKET BELLINGHAM WA,-38.49,Credit,Supermarkets,Discover,Variable,1,2025
+603,2025-01-03 00:00:00,Just Poke,-23.82,Credit,Restaurants,Discover,Variable,1,2025
+604,2025-01-03 00:00:00,Otherside,-19.97,Credit,Restaurants,Discover,Variable,1,2025
+605,2025-01-04 00:00:00,CAFFE D'ARTE SEATTLE WA,-10.2,Credit,Restaurants,Discover,Variable,1,2025
+606,2025-01-04 00:00:00,Gruff,-10.46,Credit,Restaurants,Discover,Variable,1,2025
+607,2025-01-04 00:00:00,QDOBA 1775 SEATTLE WA00496R,-23.8,Credit,Restaurants,Discover,Variable,1,2025
+608,2025-01-05 00:00:00,Discover payment,2194.61,Debit,Finacial,Discover,?,1,2025
+609,2025-01-06 00:00:00,Discover points payment,5.58,Debit,Awards and Rebate Credits,Discover,Variable,2,2025
+610,2025-01-07 00:00:00,CLIPMX*ALIM Y BEBIDAS CIUDAD DE MEXMEX896.00 @ 00000000.0491635 MXN,-44.05,Credit,Merchandise,Discover,Variable,2,2025
+611,2025-01-09 00:00:00,OYSTER BAR LA PAZ BCS MEX9230.00 @ 00000000.0487109 MXN,-449.6,Credit,Services,Discover,Variable,2,2025
+612,2025-01-09 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,2,2025
+613,2025-01-11 00:00:00,Fred-Meyer,-57.37,Credit,Supermarkets,Discover,Variable,2,2025
+614,2025-01-12 00:00:00,Apple,-78.48,Credit,Subscriptions,Discover,?,2,2025
+615,2025-01-13 00:00:00,Co-Op,-41.5,Credit,Supermarkets,Discover,Variable,3,2025
+616,2025-01-13 00:00:00,Exxon,-32.7,Credit,Gasoline,Discover,Variable,3,2025
+617,2025-01-14 00:00:00,Grocery Outlet,-49.06,Credit,Supermarkets,Discover,Variable,3,2025
+618,2025-01-15 00:00:00,MAPLE MARKET BELLINGHAM WA,-22.66,Credit,Supermarkets,Discover,Variable,3,2025
+619,2025-01-15 00:00:00,Just Poke,-25.49,Credit,Restaurants,Discover,Variable,3,2025
+620,2025-01-16 00:00:00,Grocery Outlet,-25.92,Credit,Supermarkets,Discover,Variable,3,2025
+621,2025-01-16 00:00:00,Gruff,-9.16,Credit,Restaurants,Discover,Variable,3,2025
+622,2025-01-16 00:00:00,Gruff,-19.62,Credit,Restaurants,Discover,Variable,3,2025
+623,2025-01-16 00:00:00,Pel'Meni,-21.6,Credit,Restaurants,Discover,Variable,3,2025
+624,2025-01-16 00:00:00,WWU ZOES BKSIDE BAGELS BELLINGHAM WA,-5.18,Credit,Restaurants,Discover,Variable,3,2025
+625,2025-01-17 00:00:00,Amazon,-16.34,Credit,Merchandise,Discover,Variable,3,2025
+626,2025-01-17 00:00:00,Shell,-31.6,Credit,Gasoline,Discover,Variable,3,2025
+627,2025-01-17 00:00:00,Fiamma Pizza,-13.36,Credit,Restaurants,Discover,Variable,3,2025
+628,2025-01-17 00:00:00,Otherside,-29.0,Credit,Restaurants,Discover,Variable,3,2025
+629,2025-01-18 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,3,2025
+630,2025-01-18 00:00:00,Doordash,-29.6,Credit,Restaurants,Discover,Variable,3,2025
+631,2025-01-18 00:00:00,Fred-Meyer,-119.33,Credit,Supermarkets,Discover,Variable,3,2025
+632,2025-01-18 00:00:00,Otherside,-48.31,Credit,Restaurants,Discover,Variable,3,2025
+633,2025-01-19 00:00:00,Pizza Time,-29.41,Credit,Restaurants,Discover,Variable,3,2025
+634,2025-01-20 00:00:00,Apple,-2.99,Credit,Subscriptions,Discover,?,4,2025
+635,2025-01-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,4,2025
+636,2025-01-22 00:00:00,KIN KAO SONG 6045680400 CAN235.20 @ 00000000.6978221 CAD,-164.13,Credit,Restaurants,Discover,Variable,4,2025
+637,2025-01-23 00:00:00,Shell,-19.58,Credit,Gasoline,Discover,Variable,4,2025
+638,2025-01-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,4,2025
+639,2025-01-24 00:00:00,Fred-Meyer,-28.39,Credit,Supermarkets,Discover,Variable,4,2025
+640,2025-01-25 00:00:00,Doordash,-48.46,Credit,Restaurants,Discover,Variable,4,2025
+641,2025-01-25 00:00:00,Gruff,-54.94,Credit,Restaurants,Discover,Variable,4,2025
+642,2025-01-25 00:00:00,JJ'S,-19.23,Credit,Supermarkets,Discover,Variable,4,2025
+643,2025-01-25 00:00:00,Cabin,-4.15,Credit,Restaurants,Discover,Variable,4,2025
+644,2025-01-25 00:00:00,Cabin,-10.15,Credit,Restaurants,Discover,Variable,4,2025
+645,2025-01-25 00:00:00,Cabin,-11.98,Credit,Restaurants,Discover,Variable,4,2025
+646,2025-01-25 00:00:00,Cabin,-12.15,Credit,Restaurants,Discover,Variable,4,2025
+647,2025-01-26 00:00:00,IN N OUT FOOD MART BELLINGHAM WA,-19.95,Credit,Supermarkets,Discover,Variable,4,2025
+648,2025-01-26 00:00:00,Coffee,-23.22,Credit,Restaurants,Discover,Variable,4,2025
+649,2025-01-27 00:00:00,Otherside,-23.54,Credit,Restaurants,Discover,Variable,5,2025
+650,2025-01-28 00:00:00,Shell,-50.37,Credit,Gasoline,Discover,Variable,5,2025
+651,2025-01-29 00:00:00,Fred-Meyer,-38.49,Credit,Supermarkets,Discover,Variable,5,2025
+652,2025-01-30 00:00:00,Shell,-17.41,Credit,Gasoline,Discover,Variable,5,2025
+653,2025-01-31 00:00:00,Discover payment,2088.86,Debit,Finacial,Discover,?,5,2025
+654,2025-01-31 00:00:00,PUGET SOUND ENERGY,-56.84,Credit,Electric,Discover,Unknown,5,2025
+655,2025-02-01 00:00:00,Amazon,-7.51,Credit,Merchandise,Discover,Variable,5,2025
+656,2025-02-01 00:00:00,Fred-Meyer,-55.1,Credit,Supermarkets,Discover,Variable,5,2025
+657,2025-02-01 00:00:00,Pizza Time,-35.22,Credit,Restaurants,Discover,Variable,5,2025
+658,2025-02-02 00:00:00,Fred-Meyer,-26.83,Credit,Supermarkets,Discover,Variable,5,2025
+659,2025-02-02 00:00:00,Value Village,-24.49,Credit,Merchandise,Discover,Variable,5,2025
+660,2025-02-03 00:00:00,Apple,-10.89,Credit,Subscriptions,Discover,?,6,2025
+661,2025-02-03 00:00:00,Comcast,-112.75,Credit,Internet,Discover,Unknown,6,2025
+662,2025-02-04 00:00:00,AMZN MKTP US*137XX3TT3 AMZN.COM/BILLWA720ZZP6P0S4,-108.99,Credit,Merchandise,Discover,Variable,6,2025
+663,2025-02-05 00:00:00,Amazon,-163.49,Credit,Merchandise,Discover,Variable,6,2025
+664,2025-02-05 00:00:00,Discover points payment,53.8,Debit,Awards and Rebate Credits,Discover,Variable,6,2025
+665,2025-02-05 00:00:00,MAPLE MARKET BELLINGHAM WA,-27.2,Credit,Supermarkets,Discover,Variable,6,2025
+666,2025-02-06 00:00:00,TWP*SUB64477436 202-334-6000 DC,-12.0,Credit,Merchandise,Discover,Variable,6,2025
+667,2025-02-08 00:00:00,BATH AND BODY WORKS 3482 BELLINGHAM WA,-10.86,Credit,Merchandise,Discover,Variable,6,2025
+668,2025-02-08 00:00:00,Coffee,-7.25,Credit,Restaurants,Discover,Variable,6,2025
+669,2025-02-08 00:00:00,OLD WORLD DELI BELLINGHAM WA,-43.69,Credit,Restaurants,Discover,Variable,6,2025
+670,2025-02-08 00:00:00,Shell,-40.23,Credit,Gasoline,Discover,Variable,6,2025
+671,2025-02-08 00:00:00,THE HOME DEPOT #4715 BELLINGHAM WA,-4.88,Credit,Home Improvement,Discover,Unknown,6,2025
+672,2025-02-09 00:00:00,IN N OUT FOOD MART BELLINGHAM WA,-16.23,Credit,Supermarkets,Discover,Variable,6,2025
+673,2025-02-09 00:00:00,IN N OUT FOOD MART BELLINGHAM WA,-45.7,Credit,Supermarkets,Discover,Variable,6,2025
+674,2025-02-10 00:00:00,MICROSOFT*STORE MSBILL.INFO WAMICROSOFT*STORE,-108.99,Credit,Merchandise,Discover,Variable,7,2025
+675,2025-02-11 00:00:00,Fred-Meyer,-72.49,Credit,Supermarkets,Discover,Variable,7,2025
+676,2025-02-11 00:00:00,Discover payment,347.04,Debit,Finacial,Discover,?,7,2025
+677,2025-02-12 00:00:00,Fred-Meyer,-27.03,Credit,Supermarkets,Discover,Variable,7,2025
+678,2025-02-15 00:00:00,CACTUS CLUB COAL HARBO VANCOUVER CAN97.38 @ 00000000.7057014 CAD,-68.72,Credit,Restaurants,Discover,Variable,7,2025
+679,2025-02-15 00:00:00,Cambie,-24.53,Credit,Restaurants,Discover,Variable,7,2025
+680,2025-02-17 00:00:00,Amazon,-16.34,Credit,Merchandise,Discover,Variable,8,2025
+681,2025-02-18 00:00:00,Trash,-140.94,Credit,Trash,Discover,Unknown,8,2025
+682,2025-02-20 00:00:00,Amazon,-54.49,Credit,Merchandise,Discover,Variable,8,2025
+683,2025-02-20 00:00:00,Apple,-2.99,Credit,Subscriptions,Discover,?,8,2025
+684,2025-02-21 00:00:00,Meatbus,-4.35,Credit,Merchandise,Discover,Variable,8,2025
+685,2025-02-22 00:00:00,Fred-Meyer,-45.3,Credit,Supermarkets,Discover,Variable,8,2025
+686,2025-02-22 00:00:00,Coffee,-20.51,Credit,Restaurants,Discover,Variable,8,2025
+687,2025-02-22 00:00:00,Pizza Time,-35.42,Credit,Restaurants,Discover,Variable,8,2025
+688,2025-02-23 00:00:00,Seatac airport shuttle,-103.0,Credit,Transit,Discover,Fixed,8,2025
+689,2025-02-23 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-9.75,Credit,Restaurants,Discover,Variable,8,2025
+690,2025-02-23 00:00:00,CAP HANSENS LOUNGE BELLINGHAM WA,-84.9,Credit,Restaurants,Discover,Variable,8,2025
+691,2025-02-23 00:00:00,YNAB,-16.33,Credit,Merchandise,Discover,Variable,8,2025
+692,2025-02-24 00:00:00,ALASKA AIR IN FLIGHT SEATAC WA,-8.75,Credit,Restaurants,Discover,Variable,9,2025
+693,2025-02-24 00:00:00,Starbucks,-14.38,Credit,Restaurants,Discover,Variable,9,2025
+694,2025-02-27 00:00:00,ALBERTSONS #4279 BURLESON TX,-9.19,Credit,Supermarkets,Discover,Variable,9,2025
+695,2025-02-28 00:00:00,DFW CBC BARAV8 6131203 DALLAS TX,-14.52,Credit,Restaurants,Discover,Variable,9,2025
+696,2025-02-28 00:00:00,LOVE SHACK E12 DFW DALLAS TX828,-19.06,Credit,Restaurants,Discover,Variable,9,2025
+697,2025-02-28 00:00:00,SEA KOISHISUSHIBENTOCT26 TUKWILA WA,-42.96,Credit,Restaurants,Discover,Variable,9,2025
+698,2025-03-01 00:00:00,ALASKA AIR IN FLIGHT SEATAC WA,-8.5,Credit,Restaurants,Discover,Variable,9,2025
+699,2025-03-01 00:00:00,Exxon,-12.94,Credit,Gasoline,Discover,Variable,9,2025
+700,2025-03-01 00:00:00,Exxon,-32.7,Credit,Gasoline,Discover,Variable,9,2025
+701,2025-03-01 00:00:00,Xbox,-21.79,Credit,Random,Discover,Variable,9,2025
+702,2025-03-01 00:00:00,Shell,-44.12,Credit,Gasoline,Discover,Variable,9,2025
+703,2025-03-01 00:00:00,TACO BELL 041262 BELLINGHAM WA,-19.14,Credit,Restaurants,Discover,Variable,9,2025
+704,2025-03-01 00:00:00,TOKYO HOUSE BELLINGHAM WA,-73.11,Credit,Restaurants,Discover,Variable,9,2025
+705,2025-03-01 00:00:00,TRADER JOE S #151 BELLINGHAM WA,-23.11,Credit,Supermarkets,Discover,Variable,9,2025
+706,2025-03-02 00:00:00,Fred-Meyer,-57.21,Credit,Supermarkets,Discover,Variable,9,2025
+707,2025-03-02 00:00:00,Cabin,-4.25,Credit,Restaurants,Discover,Variable,9,2025
+708,2025-03-02 00:00:00,Cabin,-12.25,Credit,Restaurants,Discover,Variable,9,2025
+709,2025-03-02 00:00:00,Cabin,-32.7,Credit,Restaurants,Discover,Variable,9,2025
+710,2025-03-03 00:00:00,Comcast,-112.75,Credit,Internet,Discover,Unknown,10,2025
+711,2025-03-03 00:00:00,PUGET SOUND ENERGY,-217.92,Credit,Electric,Discover,Unknown,10,2025
+712,2025-03-03 00:00:00,SPO*BOOMER'SDRIVE-IN BELLINGHAM WA,-40.32,Credit,Restaurants,Discover,Variable,10,2025
+713,2025-03-04 00:00:00,Discover payment,1713.48,Debit,Finacial,Discover,?,10,2025
+714,2025-03-03 00:00:00,Walmart,-14.12,Credit,Merchandise,ESL,Variable,10,2025
+715,2025-03-03 00:00:00,Minecraft,-8.63,Credit,Random,ESL,Variable,10,2025
+716,2025-03-03 00:00:00,Uber,-16.61,Credit,Restaurants,ESL,Variable,10,2025
+717,2025-02-24 00:00:00,Buying wifi on plane,-8.0,Credit,Travel/ Entertainment,ESL,Variable,9,2025
+718,2025-02-20 00:00:00,Paraniunt Plus,-8.71,Credit,Subscriptions,ESL,?,8,2025
+719,2025-02-19 00:00:00,HULU,-1.99,Credit,Subscriptions,ESL,?,8,2025
+720,2025-02-12 00:00:00,Discover payment,-347.04,Credit,Finacial,ESL,?,7,2025
+721,2025-02-03 00:00:00,Sugar on Magnolia,-31.63,Credit,Gasoline,ESL,Variable,6,2025
+722,2025-02-03 00:00:00,Walmart Plus,-14.12,Credit,Reset,ESL,Unknown,6,2025
+723,2025-02-03 00:00:00,Minecraft,-8.63,Credit,Random,ESL,Variable,6,2025
+724,2025-02-03 00:00:00,Discover payment,-2088.86,Credit,Finacial,ESL,?,6,2025
+725,2025-02-02 00:00:00,Winco,-60.08,Credit,Supermarkets,ESL,Variable,5,2025
+726,2025-02-02 00:00:00,Rent,-727.29,Credit,Rent,ESL,Fixed,5,2025
+727,2025-01-27 00:00:00,ACH Deposit VENMO - CASHOUT,305.0,Debit,Venmo,ESL,?,5,2025
+728,2025-01-26 00:00:00,Uber,-11.3,Credit,Restaurants,ESL,Variable,4,2025
+729,2025-01-24 00:00:00,International fee,-1.67,Credit,Finacial,ESL,?,4,2025
+730,2025-01-24 00:00:00,Canada hostel,-166.58,Credit,Travel/ Entertainment,ESL,Variable,4,2025
+731,2025-01-22 00:00:00,Trove,-62.25,Credit,Gasoline,ESL,Variable,4,2025
+732,2025-01-21 00:00:00,POS/Check Card WithdrawalLAKEWAY STATION 310 LAKEWAY DRIVE BELLINGHAM WAUS,-32.7,Credit,Gasoline,ESL,Variable,4,2025
+733,2025-01-21 00:00:00,Grocery Outlet,-34.93,Credit,Supermarkets,ESL,Variable,4,2025
+734,2025-01-20 00:00:00,Razor subscription,-17.6,Credit,Subscriptions,ESL,?,4,2025
+735,2025-01-20 00:00:00,Paraniunt Plus,-8.71,Credit,Subscriptions,ESL,?,4,2025
+736,2025-01-19 00:00:00,Withdrawal Internet Transfer to1379352311 SAV,-500.0,Credit,Reset,ESL,Unknown,3,2025
+737,2025-01-19 00:00:00,Transfer from esl savings,75.38,Debit,Finacial,ESL,?,3,2025
+738,2025-01-19 00:00:00,HULU,-1.99,Credit,Subscriptions,ESL,?,3,2025
+739,2025-01-15 00:00:00,Payroll,2132.38,Debit,Finacial,ESL,?,3,2025
+740,2025-01-13 00:00:00,International fee,-0.09,Credit,Finacial,ESL,?,3,2025
+741,2025-01-12 00:00:00,POS/Check Card Withdrawal SQ*SWEET AS WAFFLES gosq.com WAUS,-44.64,Credit,Restaurants,ESL,Variable,2,2025
+742,2025-01-12 00:00:00,POS/Check Card Withdrawal ADPSJD AEROMARKET 6 SAN JOSE DEL MX,-8.79,Credit,Random,ESL,Variable,2,2025
+743,2025-01-11 00:00:00,Buying wifi on plane,-8.0,Credit,Travel/ Entertainment,ESL,Variable,2,2025
+744,2025-01-09 00:00:00,WSJ,-4.32,Credit,Subscriptions,ESL,?,2,2025
+745,2025-01-06 00:00:00,International fee,-2.13,Credit,Finacial,ESL,?,2,2025
+746,2025-01-06 00:00:00,Discover payment,-2194.61,Credit,Finacial,ESL,?,2,2025
+747,2025-01-05 00:00:00,Bank withdrawl mexico,-212.94,Credit,Finacial,ESL,?,1,2025
+748,2025-01-05 00:00:00,Buying wifi on plane,-8.0,Credit,Travel/ Entertainment,ESL,Variable,1,2025
+749,2025-01-04 00:00:00,Rent,-948.3,Credit,Rent,ESL,Fixed,1,2025
+750,2025-01-03 00:00:00,Walmart Plus,-14.12,Credit,Reset,ESL,Unknown,1,2025
+751,2025-01-03 00:00:00,Minecraft,-8.63,Credit,Random,ESL,Variable,1,2025
+752,2025-01-02 00:00:00,Cascade dispensary,-60.88,Credit,Gasoline,ESL,Variable,1,2025
+753,2025-01-01 00:00:00,Whole Foods,-15.02,Credit,Restaurants,ESL,Variable,1,2025
+754,2025-01-01 00:00:00,Accomplice,-30.5,Credit,Restaurants,ESL,Variable,1,2025
+755,2024-12-31 00:00:00,Payroll,2170.57,Debit,Finacial,ESL,?,1,2025
+756,2025-03-06 00:00:00,Vanguard,-2000.0,Credit,Finacial,Ally Savings,?,10,2025
+757,2025-03-03 00:00:00,Ally interest payment,27.62,Debit,Finacial,Ally Savings,?,10,2025
+758,2025-02-14 00:00:00,Internet transfer from Spending account XXXXXX9841,1750.0,Debit,Reset,Ally Savings,Unknown,7,2025
+759,2025-02-03 00:00:00,Ally interest payment,26.62,Debit,Finacial,Ally Savings,?,6,2025
+760,2025-01-26 00:00:00,Requested transfer from TIMOTHY HUTKOWSKI (ESL FEDERAL CREDIT UNION Saving XXXXXX2311),450.0,Debit,Reset,Ally Savings,Unknown,4,2025
+761,2025-01-19 00:00:00,Ally savings to spending,-100.0,Credit,Finacial,Ally Savings,?,3,2025
+762,2025-01-03 00:00:00,Ally interest payment,26.35,Debit,Finacial,Ally Savings,?,1,2025
+763,2024-12-03 00:00:00,Ally interest payment,26.21,Debit,Finacial,Ally Savings,?,49,2024
+764,2024-11-03 00:00:00,Ally interest payment,24.74,Debit,Finacial,Ally Savings,?,44,2024
+765,2024-10-30 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,44,2024
+766,2024-10-15 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,42,2024
+767,2024-10-11 00:00:00,Vanguard,-1000.0,Credit,Finacial,Ally Savings,?,41,2024
+768,2024-10-03 00:00:00,Ally interest payment,21.23,Debit,Finacial,Ally Savings,?,40,2024
+769,2024-09-30 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,40,2024
+770,2024-09-16 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,38,2024
+771,2024-09-03 00:00:00,Ally interest payment,13.82,Debit,Finacial,Ally Savings,?,36,2024
+772,2024-09-03 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,36,2024
+773,2024-08-24 00:00:00,Requested transfer from TIMOTHY HUTKOWSKI (ESL FEDERAL CREDIT UNION Checking XXXXXX2329),875.0,Debit,Reset,Ally Savings,Unknown,34,2024
+774,2024-08-16 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,33,2024
+775,2024-08-03 00:00:00,Ally interest payment,8.27,Debit,Finacial,Ally Savings,?,31,2024
+776,2024-08-02 00:00:00,Deposit from esl,875.0,Debit,Finacial,Ally Savings,?,31,2024
+777,2024-08-01 00:00:00,Zelle,-500.0,Credit,Finacial,Ally Savings,?,31,2024
+778,2024-07-21 00:00:00,Requested transfer from TIMOTHY HUTKOWSKI (ESL FEDERAL CREDIT UNION Checking XXXXXX2329),875.0,Debit,Reset,Ally Savings,Unknown,29,2024
+779,2024-07-08 00:00:00,Discover payment,-1119.09,Credit,Finacial,Ally Savings,?,28,2024
+780,2024-07-03 00:00:00,Ally interest payment,9.87,Debit,Finacial,Ally Savings,?,27,2024
+781,2024-07-01 00:00:00,Zelle,-800.0,Credit,Finacial,Ally Savings,?,27,2024
+782,2024-06-20 00:00:00,Zelle,-200.0,Credit,Finacial,Ally Savings,?,25,2024
+783,2024-06-18 00:00:00,Scanned check,50.0,Debit,Finacial,Ally Savings,?,25,2024
+784,2024-06-18 00:00:00,Scanned check,2000.0,Debit,Finacial,Ally Savings,?,25,2024
+785,2024-06-18 00:00:00,Zelle,-200.0,Credit,Finacial,Ally Savings,?,25,2024
+786,2024-06-05 00:00:00,Discover payment,-775.05,Credit,Finacial,Ally Savings,?,23,2024
+787,2024-06-03 00:00:00,Ally interest payment,10.16,Debit,Finacial,Ally Savings,?,23,2024
+788,2024-05-08 00:00:00,Scanned check,25.0,Debit,Finacial,Ally Savings,?,19,2024
+789,2024-05-08 00:00:00,Discover payment,-500.0,Credit,Finacial,Ally Savings,?,19,2024
+790,2024-05-03 00:00:00,Ally interest payment,11.64,Debit,Finacial,Ally Savings,?,18,2024
+791,2024-04-21 00:00:00,Zelle,-200.0,Credit,Finacial,Ally Savings,?,16,2024
+792,2024-04-03 00:00:00,Ally interest payment,13.26,Debit,Finacial,Ally Savings,?,14,2024
+793,2024-03-27 00:00:00,Zelle,-300.0,Credit,Finacial,Ally Savings,?,13,2024
+794,2024-03-03 00:00:00,Ally interest payment,13.08,Debit,Finacial,Ally Savings,?,9,2024
+795,2024-02-29 00:00:00,Discover payment,-52.78,Credit,Finacial,Ally Savings,?,9,2024
+796,2024-02-05 00:00:00,Discover payment,-1076.92,Credit,Finacial,Ally Savings,?,6,2024
+797,2024-02-03 00:00:00,Ally interest payment,6.69,Debit,Finacial,Ally Savings,?,5,2024
+798,2024-01-26 00:00:00,Requested transfer from TIMOTHY HUTKOWSKI (ESL FEDERAL CREDIT UNION Saving XXXXXX2311),4300.0,Debit,Reset,Ally Savings,Unknown,4,2024
+799,2024-01-03 00:00:00,Ally interest payment,3.09,Debit,Finacial,Ally Savings,?,1,2024
+800,2023-12-28 00:00:00,Discover payment,-345.99,Credit,Finacial,Ally Savings,?,52,2023
+801,2023-12-03 00:00:00,Ally interest payment,3.22,Debit,Finacial,Ally Savings,?,48,2023
+802,2023-11-03 00:00:00,Ally interest payment,3.32,Debit,Finacial,Ally Savings,?,44,2023
+803,2023-10-03 00:00:00,Ally interest payment,1.0,Debit,Finacial,Ally Savings,?,40,2023
+804,2023-09-25 00:00:00,Scanned check,820.03,Debit,Finacial,Ally Savings,?,39,2023
+805,2023-09-25 00:00:00,Transfer from ally invest,100.0,Debit,Finacial,Ally Savings,?,39,2023
+806,2025-03-05 00:00:00,Discover payment,-1713.48,Credit,Finacial,Ally Checking,?,10,2025
+807,2025-03-04 00:00:00,Scanned check,884.64,Debit,Finacial,Ally Checking,?,10,2025
+808,2025-03-04 00:00:00,Rent,-825.35,Credit,Rent,Ally Checking,Fixed,10,2025
+809,2025-03-04 00:00:00,"WWW.PITTSF* WWW.PITTSF 1433 Pittsford Victor R VICTOR, NY, US",-89.66,Credit,Reset,Ally Checking,Unknown,10,2025
+810,2025-03-04 00:00:00,Doordash,-24.46,Credit,Restaurants,Ally Checking,Variable,10,2025
+811,2025-03-04 00:00:00,Uber,-3.0,Credit,Restaurants,Ally Checking,Variable,10,2025
+812,2025-03-03 00:00:00,Ally interest payment,0.28,Debit,Finacial,Ally Checking,?,10,2025
+813,2025-03-03 00:00:00,ATM Fee Reimbursement,2.25,Debit,Reset,Ally Checking,Unknown,10,2025
+814,2025-03-03 00:00:00,"GIRL SCOUTS OF THE UNI 420 FIFTH AVENUE 8555304467, NY, US",-24.0,Credit,Reset,Ally Checking,Unknown,10,2025
+815,2025-03-03 00:00:00,"THEROYAL 208 E HOLLY ST BELLINGHAM, WA, US",-30.0,Credit,Reset,Ally Checking,Unknown,10,2025
+816,2025-03-03 00:00:00,"THEROYAL 208 E HOLLY ST BELLINGHAM, WA, US",-9.0,Credit,Reset,Ally Checking,Unknown,10,2025
+817,2025-03-03 00:00:00,Uber,-10.18,Credit,Restaurants,Ally Checking,Variable,10,2025
+818,2025-03-03 00:00:00,"MCKAYS TAP HOUSE 1118 E MAPLE ST BELLINGHAM, WA, US",-42.14,Credit,Reset,Ally Checking,Unknown,10,2025
+819,2025-03-01 00:00:00,Buying wifi on plane,-8.0,Credit,Travel/ Entertainment,Ally Checking,Variable,9,2025
+820,2025-02-26 00:00:00,Payroll,2132.38,Debit,Finacial,Ally Checking,?,9,2025
+821,2025-02-24 00:00:00,Uber,-9.91,Credit,Restaurants,Ally Checking,Variable,9,2025
+822,2025-02-23 00:00:00,"LAKEWAY STATION BELLINGHAM, WA, US",-14.05,Credit,Gasoline,Ally Checking,Variable,8,2025
+823,2025-02-23 00:00:00,Fred-Meyer,-79.31,Credit,Supermarkets,Ally Checking,Variable,8,2025
+824,2025-02-23 00:00:00,Rent,-894.63,Credit,Rent,Ally Checking,Fixed,8,2025
+825,2025-02-23 00:00:00,Just Poke,-22.87,Credit,Restaurants,Ally Checking,Variable,8,2025
+826,2025-02-23 00:00:00,"Nintendo CA1361834385 4600 150th Ave NE 8002553700, WA, US",-65.39,Credit,Reset,Ally Checking,Unknown,8,2025
+827,2025-02-23 00:00:00,"TARGET        00003483 #30 BELLIS FAIR PKWY BELLINGHAM, WA, US",-7.62,Credit,Reset,Ally Checking,Unknown,8,2025
+828,2025-02-22 00:00:00,"MERIDIAN SUPER BELLINGHAM, WA, US",-20.25,Credit,Reset,Ally Checking,Unknown,8,2025
+829,2025-02-22 00:00:00,Coffee,-6.0,Credit,Restaurants,Ally Checking,Variable,8,2025
+830,2025-02-22 00:00:00,Shell,-33.76,Credit,Gasoline,Ally Checking,Variable,8,2025
+831,2025-02-22 00:00:00,"COMMUNITYFOOD C BELLINGHAM, WA, US",-27.05,Credit,Reset,Ally Checking,Unknown,8,2025
+832,2025-02-21 00:00:00,Fred-Meyer,-48.68,Credit,Supermarkets,Ally Checking,Variable,8,2025
+833,2025-02-21 00:00:00,"LAKEWAY STATION BELLINGHAM, WA, US",-32.7,Credit,Gasoline,Ally Checking,Variable,8,2025
+834,2025-02-21 00:00:00,Payroll,3538.92,Debit,Finacial,Ally Checking,?,8,2025
+835,2025-02-20 00:00:00,Doordash,-24.58,Credit,Restaurants,Ally Checking,Variable,8,2025
+836,2025-02-20 00:00:00,Trove,-62.25,Credit,Gasoline,Ally Checking,Variable,8,2025
+837,2025-02-18 00:00:00,"GONG CHA - GRANVILLE 823 GRANVILLE STREET VANCOUVER, BC, CA",-11.07,Credit,Reset,Ally Checking,Unknown,8,2025
+838,2025-02-18 00:00:00,"WEST COAST DUTY FREE S 111-176TH STREET SURREY, BC, CA",-34.26,Credit,Reset,Ally Checking,Unknown,8,2025
+839,2025-02-18 00:00:00,"THE HOME DEPOT #4715 420 TELEGRAPH ROAD BELLINGHAM, WA, US",-3.68,Credit,Reset,Ally Checking,Unknown,8,2025
+840,2025-02-17 00:00:00,"GOTHAM STEAKHOUSE 615 SEYMOUR STREET VANCOUVER, BC, CA",-32.84,Credit,Reset,Ally Checking,Unknown,8,2025
+841,2025-02-17 00:00:00,"BREKA BAKERY & CAFE 740 HASTINGS ST W VANCOUVER, BC, CA",-27.09,Credit,Reset,Ally Checking,Unknown,8,2025
+842,2025-02-17 00:00:00,"SEYMOUR CAMBIE HOSTEL 515 SEYMOUR ST VANCOUVER, BC, CA",14.28,Debit,Restaurants,Ally Checking,Variable,8,2025
+843,2025-02-17 00:00:00,"MALONES 608 W PENDER STREET VANCOUVER, BC, CA",-52.36,Credit,Reset,Ally Checking,Unknown,8,2025
+844,2025-02-17 00:00:00,"COASTAL GREEN (DUNSMUI 565 DUNSMUIR STREET VANCOUVER, BC, CA",-28.33,Credit,Reset,Ally Checking,Unknown,8,2025
+845,2025-02-17 00:00:00,"ZIPBY APP VIOLATION 209-700 PENDER ST W 604-682-6744, BC, CA",-60.67,Credit,Reset,Ally Checking,Unknown,8,2025
+846,2025-02-17 00:00:00,"REXALL PHARMACY #7174 499 GRANVILLE STREET VANCOUVER, BC, CA",-3.54,Credit,Reset,Ally Checking,Unknown,8,2025
+847,2025-02-17 00:00:00,Fred-Meyer,-50.8,Credit,Supermarkets,Ally Checking,Variable,8,2025
+848,2025-02-16 00:00:00,"INDIGO 975 1033 ROBSON ST VANCOUVER, BC, CA",-41.57,Credit,Reset,Ally Checking,Unknown,7,2025
+849,2025-02-16 00:00:00,"SEYMOUR CAMBIE HOSTEL 515 SEYMOUR ST VANCOUVER, BC, CA",-184.3,Credit,Restaurants,Ally Checking,Variable,7,2025
+850,2025-02-16 00:00:00,Uber,-2.14,Credit,Restaurants,Ally Checking,Variable,7,2025
+851,2025-02-16 00:00:00,"MALONES 608 W PENDER STREET VANCOUVER, BC, CA",-64.91,Credit,Reset,Ally Checking,Unknown,7,2025
+852,2025-02-16 00:00:00,"HM Pacific Centre Granville St. 609 Vancouver, BC, CA",-56.16,Credit,Reset,Ally Checking,Unknown,7,2025
+853,2025-02-16 00:00:00,"ZIPBY Unit 116 1900 Minnesota MISSISSAUGA, ON, CA",-44.12,Credit,Reset,Ally Checking,Unknown,7,2025
+854,2025-02-16 00:00:00,"KIN KAO SONG 317E BROADWAY VANCOUVER, BC, CA",-90.94,Credit,Reset,Ally Checking,Unknown,7,2025
+855,2025-02-15 00:00:00,Uber,-7.9,Credit,Restaurants,Ally Checking,Variable,7,2025
+856,2025-02-15 00:00:00,"CITY VAPER 585 W PENDER VANCOUVER, BC, CA",-24.09,Credit,Reset,Ally Checking,Unknown,7,2025
+857,2025-02-15 00:00:00,"ZIPBY Unit 116 1900 Minnesota MISSISSAUGA, ON, CA",-27.52,Credit,Reset,Ally Checking,Unknown,7,2025
+858,2025-02-14 00:00:00,Internet transfer to Savings account XXXXXX2699,-1750.0,Credit,Reset,Ally Checking,Unknown,7,2025
+859,2025-02-12 00:00:00,Payroll,2132.38,Debit,Finacial,Ally Checking,?,7,2025
+860,2025-02-11 00:00:00,Scanned check,349.42,Debit,Finacial,Ally Checking,?,7,2025
+861,2025-02-10 00:00:00,"BLOOMBERG* B38217360 731 Lexington Avenue NEW YORK, NY, US",-1.99,Credit,Reset,Ally Checking,Unknown,7,2025
+862,2025-02-06 00:00:00,Payroll,2131.38,Debit,Finacial,Ally Checking,?,6,2025
+863,2025-02-05 00:00:00,Payroll,1.0,Debit,Finacial,Ally Checking,?,6,2025
+864,2025-01-27 00:00:00,"COSTCO WHSE #12 BELLINGHAM, WA, US",-62.57,Credit,Reset,Ally Checking,Unknown,5,2025
+865,2025-01-19 00:00:00,Internet transfer from Savings account XXXXXX2699,100.0,Debit,Reset,Ally Checking,Unknown,3,2025

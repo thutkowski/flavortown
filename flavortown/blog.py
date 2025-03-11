@@ -4,11 +4,11 @@ from flask import (
 from werkzeug.exceptions import abort
 
 from flavortown.auth import login_required
-from flavortown.db import get_db
+from flavortown.database import get_db
 
 bp = Blueprint('blog', __name__,url_prefix='/blog')
 
-@bp.route('/index')
+@bp.route('/')
 def index():
     db = get_db()
     posts = db.execute(

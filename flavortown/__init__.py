@@ -7,7 +7,8 @@ def create_app(test_config=None):
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_mapping(
         SECRET_KEY='dev',
-        DATABASE=os.path.join(app.instance_path, 'flavortown.sqlite'),
+        UPLOAD_FOLDER = 'uploads',
+        DATABASE=os.path.join(app.instance_path, 'flavortown.db'),
     )
 
     if test_config is None:
@@ -28,8 +29,8 @@ def create_app(test_config=None):
     def hello():
         return 'Hello, World!'
 
-    from . import db
-    db.init_app(app)
+    from . import database
+    database.init_app(app)
 
     from . import auth
     app.register_blueprint(auth.bp)
@@ -41,5 +42,17 @@ def create_app(test_config=None):
     app.register_blueprint(home.bp)
     app.add_url_rule('/', endpoint='index')
 
+    from . import recipes
+    app.register_blueprint(recipes.bp)
+
+    from . import friends
+    app.register_blueprint(friends.bp)
+
+    from . import upload
+    app.register_blueprint(upload.bp)
+
+    from . import budget
+    app.register_blueprint(budget.bp)
+    
     return app
 

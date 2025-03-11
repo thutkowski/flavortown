@@ -1,0 +1,22 @@
+﻿Category,CategoryStatus
+Supermarkets,Variable
+Restaurants,Variable
+Gasoline,Variable
+Finacial,?
+Merchandise,Variable
+Utilities,Fixed
+Subscription,?
+Subscriptions,?
+Rent,Fixed
+Venmo,?
+Travel/ Entertainment,Variable
+Random,Variable
+Awards and Rebate Credits,Variable
+Transit,Fixed
+Education,?
+Fees,Variable
+Interest,Variable
+Charity,Variable
+Department Stores,Variable
+Services,Variable
+Services                       1,Variable

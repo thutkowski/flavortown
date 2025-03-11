@@ -1,0 +1,15 @@
+{% extends 'friends/baseFriends.html' %}
+
+{% block header %}
+  <h1>{% block title %}New Friend{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <form method="POST">
+    <label for="name">Name</label>
+    <input name="name" id="name" value="{{ request.form['name'] }}" required>
+    <label for="birthday">Birthday</label>
+    <textarea name="birthday" id="birthday" value ="{{ request.form['birthday'] }}"></textarea>
+    <input type="submit" value="Save">
+  </form>
+{% endblock %}

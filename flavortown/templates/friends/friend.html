@@ -1,0 +1,34 @@
+{% extends 'friends/baseFriends.html' %}
+
+{% block header %}
+  <ul class="friendHeader">
+    <li>{% block title %}{{friend['name']}}{% endblock %}</li>
+    <li><a href = "addConvo.html">Add conversation</a></li>
+  </ul>
+
+{% endblock %}
+
+{% block content %}
+  <h1>This is the friend display page</h1>
+  <h2> You last spoke to {{friend['name']}} on </h2>
+
+  <div>
+    {{ calendar_html | safe }}
+  </div>
+
+
+  <a href="#" id="showFormLink"> Add conversation</a>
+  <form method="POST" id="hidden-form">
+    <label for="date">Date of Conversation:</label><br>
+    <input type="text" id="date" name="date" required><br>
+    <p>Important Notes</p>
+    <textarea id="summary" name="summary"></textarea><br>
+
+  </form>
+  <script>
+    document.getElementById('showFormLink').addEventListener('click', function(event) {
+        event.preventDefault();
+        document.getElementById('hidden-form').style.display = 'block';
+    });
+</script>
+{% endblock %}
